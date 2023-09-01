@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngu-it-van-khoe-5-tieng-la-du-sao-phai-la-8_19440.html",
+    "title" : "Ngủ Ít Vẫn Khỏe - 5 Tiếng Là Đủ Sao Phải Là 8?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Satoru Tsubota",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-16",
+    "duration" : 11191,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_012fed3676d2e39824bb1d9d8528753e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_012fed3676d2e39824bb1d9d8528753e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngu-it (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngu-it (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngu-it (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_1.mp3",
+    "title" : "ngu-it (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_2.mp3",
+    "title" : "ngu-it (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_3.mp3",
+    "title" : "ngu-it (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,509 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hat-giong-yeu-thuong_16926.html",
+    "title" : "Hạt Giống Yêu Thương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 3980,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_01896068ddb9a8e11e9e120b6ba4e4fc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_01896068ddb9a8e11e9e120b6ba4e4fc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/01-loi_yeu_thuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 116,
+    "title" : "Lời yêu thương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/02-anh_sang_cuoi_duong_ham.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 115,
+    "title" : "Ánh sáng cuối đường hầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/03-ban_dong_hanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 101,
+    "title" : "Bạn đồng hành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/04-bien_uoc_mo_thanh_hien_thuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 87,
+    "title" : "Biến ước mơ thành hiện thực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/05-ban_tay_khuyet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 99,
+    "title" : "Bàn tay khuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/06-can_dam_va_hy_vong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 133,
+    "title" : "Can đảm và hy vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/07-chia_se.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 97,
+    "title" : "Chia sẻ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/08-boi_cung_ca_heo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 110,
+    "title" : "Bơi cùng cá heo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/09-dieu_nho_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 112,
+    "title" : "Điều nhỏ nhặt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/10-loi_lam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 87,
+    "title" : "Lỗi lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/11-long_tot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 107,
+    "title" : "Lòng tốt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/12-chu_chim_canh_cut.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 90,
+    "title" : "Chú chim cánh cụt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/13-me_ke.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 96,
+    "title" : "Mẹ kế và mẹ ruột",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/14-me_la_me_ruot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 124,
+    "title" : "Mẹ là mẹ ruột của con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/15-mim_cuoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 116,
+    "title" : "Mỉm cười",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/16-dich_den.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 96,
+    "title" : "Đích đến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/17-mon_qua_bat_ngo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 117,
+    "title" : "Món quà bất ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/18-mon_qua_cua_ba_noi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 93,
+    "title" : "Món quà của bà nội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/19-mot_cuoc_hen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 110,
+    "title" : "Một cuộc hẹn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/20-ko_bao_gio_bo_cuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 82,
+    "title" : "Không bao giờ bỏ cuộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/21-ngay_chao_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 102,
+    "title" : "Ngày chào đời đặc biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/22-nghe_giao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 81,
+    "title" : "Nghề giáo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/23-nguoi_giup_do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 90,
+    "title" : "Người giúp đỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/24-long_nhiet_tinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 89,
+    "title" : "Lòng nhiệt tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/25-nguoi_tot_nghiep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 108,
+    "title" : "Người tốt nghiệp trong gia đình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/26-nhung_buoc_chan_dau_tien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 110,
+    "title" : "Những bước chân đầu tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/27-nhung_dua_con_cua_toi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 109,
+    "title" : "Những đứa con của tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/28-muon_mang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 98,
+    "title" : "Muộn màng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/29-niem_hy_vong_bat_diet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 110,
+    "title" : "Niềm hy vọng bất diệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/30-ong_gia_noel.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 77,
+    "title" : "Ông già Noel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/31-ong_lao_mu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 90,
+    "title" : "Ông lão mù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/32-o_hien_gap_lanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 98,
+    "title" : "Ở hiền gặp lành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/33-qua_bi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 108,
+    "title" : "Quả bí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/34-quyen_nhat_ky.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 97,
+    "title" : "Quyển nhật ký",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/35-siet_tay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 123,
+    "title" : "Siết tay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/36-thay_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 95,
+    "title" : "Thay đổi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/37-tam_nhin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 108,
+    "title" : "Tầm nhìn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/38-tha_thu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 98,
+    "title" : "Tha thứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/39-tinh_yeu_tham_lang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 101,
+    "title" : "Tình yêu thầm lặng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/01-loi_yeu_thuong.mp3",
+    "title" : "Lời yêu thương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/02-anh_sang_cuoi_duong_ham.mp3",
+    "title" : "Ánh sáng cuối đường hầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/03-ban_dong_hanh.mp3",
+    "title" : "Bạn đồng hành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/04-bien_uoc_mo_thanh_hien_thuc.mp3",
+    "title" : "Biến ước mơ thành hiện thực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/05-ban_tay_khuyet.mp3",
+    "title" : "Bàn tay khuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/06-can_dam_va_hy_vong.mp3",
+    "title" : "Can đảm và hy vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/07-chia_se.mp3",
+    "title" : "Chia sẻ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/08-boi_cung_ca_heo.mp3",
+    "title" : "Bơi cùng cá heo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/09-dieu_nho_nhat.mp3",
+    "title" : "Điều nhỏ nhặt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/10-loi_lam.mp3",
+    "title" : "Lỗi lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/11-long_tot.mp3",
+    "title" : "Lòng tốt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/12-chu_chim_canh_cut.mp3",
+    "title" : "Chú chim cánh cụt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/13-me_ke.mp3",
+    "title" : "Mẹ kế và mẹ ruột",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/14-me_la_me_ruot.mp3",
+    "title" : "Mẹ là mẹ ruột của con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/15-mim_cuoi.mp3",
+    "title" : "Mỉm cười",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/16-dich_den.mp3",
+    "title" : "Đích đến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/17-mon_qua_bat_ngo.mp3",
+    "title" : "Món quà bất ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/18-mon_qua_cua_ba_noi.mp3",
+    "title" : "Món quà của bà nội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/19-mot_cuoc_hen.mp3",
+    "title" : "Một cuộc hẹn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/20-ko_bao_gio_bo_cuoc.mp3",
+    "title" : "Không bao giờ bỏ cuộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/21-ngay_chao_doi.mp3",
+    "title" : "Ngày chào đời đặc biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/22-nghe_giao.mp3",
+    "title" : "Nghề giáo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/23-nguoi_giup_do.mp3",
+    "title" : "Người giúp đỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/24-long_nhiet_tinh.mp3",
+    "title" : "Lòng nhiệt tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/25-nguoi_tot_nghiep.mp3",
+    "title" : "Người tốt nghiệp trong gia đình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/26-nhung_buoc_chan_dau_tien.mp3",
+    "title" : "Những bước chân đầu tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/27-nhung_dua_con_cua_toi.mp3",
+    "title" : "Những đứa con của tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/28-muon_mang.mp3",
+    "title" : "Muộn màng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/29-niem_hy_vong_bat_diet.mp3",
+    "title" : "Niềm hy vọng bất diệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/30-ong_gia_noel.mp3",
+    "title" : "Ông già Noel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/31-ong_lao_mu.mp3",
+    "title" : "Ông lão mù",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/32-o_hien_gap_lanh.mp3",
+    "title" : "Ở hiền gặp lành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/33-qua_bi.mp3",
+    "title" : "Quả bí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/34-quyen_nhat_ky.mp3",
+    "title" : "Quyển nhật ký",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/35-siet_tay.mp3",
+    "title" : "Siết tay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/36-thay_doi.mp3",
+    "title" : "Thay đổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/37-tam_nhin.mp3",
+    "title" : "Tầm nhìn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/38-tha_thu.mp3",
+    "title" : "Tha thứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss20-hatGiongYeuThuong/39-tinh_yeu_tham_lang.mp3",
+    "title" : "Tình yêu thầm lặng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
