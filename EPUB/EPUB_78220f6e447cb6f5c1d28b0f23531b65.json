@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_78220f6e447cb6f5c1d28b0f23531b65.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_78220f6e447cb6f5c1d28b0f23531b65.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_78220f6e447cb6f5c1d28b0f23531b65.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_78220f6e447cb6f5c1d28b0f23531b65.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_78220f6e447cb6f5c1d28b0f23531b65_92febd8db84730b510b348cb675601cf.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_78220f6e447cb6f5c1d28b0f23531b65_92febd8db84730b510b348cb675601cf.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1926,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_78220f6e447cb6f5c1d28b0f23531b65_92febd8db84730b510b348cb675601cf.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_78220f6e447cb6f5c1d28b0f23531b65_92febd8db84730b510b348cb675601cf.mp3",
     "title" : "nhan-duyen",
     "children" : [ ]
   } ],

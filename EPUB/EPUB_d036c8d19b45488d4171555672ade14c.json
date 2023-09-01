@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_d036c8d19b45488d4171555672ade14c.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_d036c8d19b45488d4171555672ade14c.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_d036c8d19b45488d4171555672ade14c.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_d036c8d19b45488d4171555672ade14c.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_454ac56e7058adfa5d5c1f1a1639c6cd.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_454ac56e7058adfa5d5c1f1a1639c6cd.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2397,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_6e3ab7311db07b9d581eb960be84a6d1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_6e3ab7311db07b9d581eb960be84a6d1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2256,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_27a0bc0dc346b7aabe84363cf7e99cff.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_27a0bc0dc346b7aabe84363cf7e99cff.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2582,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_8b3f1b9b3f5f98dd088f6888fc73c50c.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_8b3f1b9b3f5f98dd088f6888fc73c50c.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2874,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_c04e92746313ba5dfef7d4a3838c0223.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_c04e92746313ba5dfef7d4a3838c0223.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2591,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_454ac56e7058adfa5d5c1f1a1639c6cd.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_454ac56e7058adfa5d5c1f1a1639c6cd.mp3",
     "title" : "24 SAC MAU CON GAI 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_6e3ab7311db07b9d581eb960be84a6d1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_6e3ab7311db07b9d581eb960be84a6d1.mp3",
     "title" : "24 SAC MAU CON GAI 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_27a0bc0dc346b7aabe84363cf7e99cff.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_27a0bc0dc346b7aabe84363cf7e99cff.mp3",
     "title" : "24 SAC MAU CON GAI 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_8b3f1b9b3f5f98dd088f6888fc73c50c.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_8b3f1b9b3f5f98dd088f6888fc73c50c.mp3",
     "title" : "24 SAC MAU CON GAI 04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_c04e92746313ba5dfef7d4a3838c0223.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d036c8d19b45488d4171555672ade14c_c04e92746313ba5dfef7d4a3838c0223.mp3",
     "title" : "24 SAC MAU CON GAI 05",
     "children" : [ ]
   } ],

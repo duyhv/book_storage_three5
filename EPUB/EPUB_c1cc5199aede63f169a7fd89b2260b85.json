@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_c1cc5199aede63f169a7fd89b2260b85.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_c1cc5199aede63f169a7fd89b2260b85.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_c1cc5199aede63f169a7fd89b2260b85.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_c1cc5199aede63f169a7fd89b2260b85.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c1cc5199aede63f169a7fd89b2260b85_4b116e51b017b0dacaa0f53ee99b7dd1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_c1cc5199aede63f169a7fd89b2260b85_4b116e51b017b0dacaa0f53ee99b7dd1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3322,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c1cc5199aede63f169a7fd89b2260b85_0d322ebb83cd37b22c8d5e2e895070e5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_c1cc5199aede63f169a7fd89b2260b85_0d322ebb83cd37b22c8d5e2e895070e5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3113,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c1cc5199aede63f169a7fd89b2260b85_4b116e51b017b0dacaa0f53ee99b7dd1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_c1cc5199aede63f169a7fd89b2260b85_4b116e51b017b0dacaa0f53ee99b7dd1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c1cc5199aede63f169a7fd89b2260b85_0d322ebb83cd37b22c8d5e2e895070e5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_c1cc5199aede63f169a7fd89b2260b85_0d322ebb83cd37b22c8d5e2e895070e5.mp3",
     "title" : "2",
     "children" : [ ]
   } ],

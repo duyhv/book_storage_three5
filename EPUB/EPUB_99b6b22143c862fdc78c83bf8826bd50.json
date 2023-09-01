@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_99b6b22143c862fdc78c83bf8826bd50.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_99b6b22143c862fdc78c83bf8826bd50.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_99b6b22143c862fdc78c83bf8826bd50.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_99b6b22143c862fdc78c83bf8826bd50.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_aa8b3a35f3af178262c8181c951261d4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_aa8b3a35f3af178262c8181c951261d4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1230,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_ac99c9b405748645112555ac741df8c7.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_ac99c9b405748645112555ac741df8c7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1826,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_d5ef1d448ac152666485951cd5d29c26.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_d5ef1d448ac152666485951cd5d29c26.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1438,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_6c8e022ff2ec16cc35154311f83531d4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_6c8e022ff2ec16cc35154311f83531d4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1499,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_5c5eae8a434a5cb6fe7a7e91115e834f.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_5c5eae8a434a5cb6fe7a7e91115e834f.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1144,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_1c5d5b15925e499bff241d455e6664a2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_1c5d5b15925e499bff241d455e6664a2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1620,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_3f55503aab63e8d480befbdacb0b489c.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_3f55503aab63e8d480befbdacb0b489c.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1247,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_d603a37d096fb1c426f7e017cabe04cd.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_d603a37d096fb1c426f7e017cabe04cd.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 935,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_588ac7f0a977f46ec3e5bde268854b3d.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_588ac7f0a977f46ec3e5bde268854b3d.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1159,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_03018ea3e59ac2b74c019f8864214ce3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_03018ea3e59ac2b74c019f8864214ce3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 749,
@@ -117,43 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_aa8b3a35f3af178262c8181c951261d4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_aa8b3a35f3af178262c8181c951261d4.mp3",
     "title" : "Matilda Cô bé nghịch ngợm",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_ac99c9b405748645112555ac741df8c7.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_ac99c9b405748645112555ac741df8c7.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương 2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_d5ef1d448ac152666485951cd5d29c26.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_d5ef1d448ac152666485951cd5d29c26.mp3",
     "title" : "Chương 3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_6c8e022ff2ec16cc35154311f83531d4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_6c8e022ff2ec16cc35154311f83531d4.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương 4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_5c5eae8a434a5cb6fe7a7e91115e834f.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_5c5eae8a434a5cb6fe7a7e91115e834f.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương 5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_1c5d5b15925e499bff241d455e6664a2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_1c5d5b15925e499bff241d455e6664a2.mp3",
     "title" : "Matilda Cô bé nghịch ngợm",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_3f55503aab63e8d480befbdacb0b489c.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_3f55503aab63e8d480befbdacb0b489c.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương 7",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_d603a37d096fb1c426f7e017cabe04cd.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_d603a37d096fb1c426f7e017cabe04cd.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương 8",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_588ac7f0a977f46ec3e5bde268854b3d.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_588ac7f0a977f46ec3e5bde268854b3d.mp3",
     "title" : "Chương 9",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_03018ea3e59ac2b74c019f8864214ce3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_99b6b22143c862fdc78c83bf8826bd50_03018ea3e59ac2b74c019f8864214ce3.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương cuối",
     "children" : [ ]
   } ],

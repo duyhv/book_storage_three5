@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_1464becdff61682f708819b9d055f459.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_1464becdff61682f708819b9d055f459.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_1464becdff61682f708819b9d055f459.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_1464becdff61682f708819b9d055f459.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1464becdff61682f708819b9d055f459_e52113c55308353d89dc931ccf10d61a.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_1464becdff61682f708819b9d055f459_e52113c55308353d89dc931ccf10d61a.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9109,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1464becdff61682f708819b9d055f459_e52113c55308353d89dc931ccf10d61a.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_1464becdff61682f708819b9d055f459_e52113c55308353d89dc931ccf10d61a.mp3",
     "title" : "mat-ngu",
     "children" : [ ]
   } ],

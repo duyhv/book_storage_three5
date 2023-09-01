@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_72212b6794a6ee10be5b9e0d6190a4d7.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_72212b6794a6ee10be5b9e0d6190a4d7.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_72212b6794a6ee10be5b9e0d6190a4d7.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_72212b6794a6ee10be5b9e0d6190a4d7.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_1.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 01 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_2.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 01 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_3.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 01 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_16c65e0662df3cc4a30b1cbf284801ff_4.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 01 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp (4)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_1.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 02 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_2.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 02 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_3.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 02 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_4.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_abd7f295d643c3007cb79a946f5d5985_4.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 02 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp (4)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_1.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 03 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_2.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 03 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_72212b6794a6ee10be5b9e0d6190a4d7_5aff4b8878abf5ae2f59c6e8612826ca_3.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 03 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp (3)",
     "children" : [ ]
   } ],

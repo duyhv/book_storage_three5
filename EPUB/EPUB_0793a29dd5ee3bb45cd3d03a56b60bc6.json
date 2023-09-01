@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_0793a29dd5ee3bb45cd3d03a56b60bc6.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_0793a29dd5ee3bb45cd3d03a56b60bc6.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_0793a29dd5ee3bb45cd3d03a56b60bc6.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_0793a29dd5ee3bb45cd3d03a56b60bc6.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_a359a26fbc59b8458afd014c5785bc4d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_a359a26fbc59b8458afd014c5785bc4d_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_a359a26fbc59b8458afd014c5785bc4d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_a359a26fbc59b8458afd014c5785bc4d_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_f6820838addb1b89bc5e7966b356497e_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_f6820838addb1b89bc5e7966b356497e_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_f6820838addb1b89bc5e7966b356497e_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_f6820838addb1b89bc5e7966b356497e_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_de66e36175fc2715d439eef480861f9c_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_de66e36175fc2715d439eef480861f9c_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_de66e36175fc2715d439eef480861f9c_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_de66e36175fc2715d439eef480861f9c_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -133,51 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_a359a26fbc59b8458afd014c5785bc4d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_a359a26fbc59b8458afd014c5785bc4d_1.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 1 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_a359a26fbc59b8458afd014c5785bc4d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_a359a26fbc59b8458afd014c5785bc4d_2.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 1 (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_f6820838addb1b89bc5e7966b356497e_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_f6820838addb1b89bc5e7966b356497e_1.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 2 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_f6820838addb1b89bc5e7966b356497e_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_f6820838addb1b89bc5e7966b356497e_2.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 2 (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_1.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 3 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_2.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 3 (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_70f28c0634e84f9c5c90b78923eba1a7_3.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 3 (192kbit AAC) (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_1.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 4 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_2.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 4 (192kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_fedc601e63bc638b00d08cc025daf5f6_3.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 4 (192kbit AAC) (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_de66e36175fc2715d439eef480861f9c_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_de66e36175fc2715d439eef480861f9c_1.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 5 (192kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_de66e36175fc2715d439eef480861f9c_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_0793a29dd5ee3bb45cd3d03a56b60bc6_de66e36175fc2715d439eef480861f9c_2.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 5 (192kbit AAC) (2)",
     "children" : [ ]
   } ],
