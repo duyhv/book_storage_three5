@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-trinh-sang-dong-phuong_20684.html",
+    "title" : "Hành Trình Sang Đông Phương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hermann Hesse",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 10594,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_e90e5899e2729e3b2ecc6b4b05ea8bb5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_e90e5899e2729e3b2ecc6b4b05ea8bb5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e90e5899e2729e3b2ecc6b4b05ea8bb5_feaac35264172f840b34104369cb1247.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3191,
+    "title" : "01_HanhTrinhSangDongPhuong_Mot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e90e5899e2729e3b2ecc6b4b05ea8bb5_24e70eacfe268489bdfb675a7293def0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1195,
+    "title" : "02_HanhTrinhSangDongPhuong_Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e90e5899e2729e3b2ecc6b4b05ea8bb5_f550ec0c1e20a7095699a134c0435a2a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1055,
+    "title" : "03_HanhTrinhSangDongPhuong_Ba_",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e90e5899e2729e3b2ecc6b4b05ea8bb5_852354be64ac6e00adaa68bd49194621.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1648,
+    "title" : "04_HanhTrinhSangDongPhuong_Bon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e90e5899e2729e3b2ecc6b4b05ea8bb5_db4184ddaaafa8c7b9762b42295e4ef5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3505,
+    "title" : "05_HanhTrinhSangDongPhuong_Nam",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e90e5899e2729e3b2ecc6b4b05ea8bb5_feaac35264172f840b34104369cb1247.mp3",
+    "title" : "01_HanhTrinhSangDongPhuong_Mot",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e90e5899e2729e3b2ecc6b4b05ea8bb5_24e70eacfe268489bdfb675a7293def0.mp3",
+    "title" : "02_HanhTrinhSangDongPhuong_Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e90e5899e2729e3b2ecc6b4b05ea8bb5_f550ec0c1e20a7095699a134c0435a2a.mp3",
+    "title" : "03_HanhTrinhSangDongPhuong_Ba_",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e90e5899e2729e3b2ecc6b4b05ea8bb5_852354be64ac6e00adaa68bd49194621.mp3",
+    "title" : "04_HanhTrinhSangDongPhuong_Bon",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e90e5899e2729e3b2ecc6b4b05ea8bb5_db4184ddaaafa8c7b9762b42295e4ef5.mp3",
+    "title" : "05_HanhTrinhSangDongPhuong_Nam",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
