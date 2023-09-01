@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cu-di-roi-se-den_19330.html",
+    "title" : "Cứ Đi Rồi Sẽ Đến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh DeltaViet",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-28",
+    "duration" : 13043,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_6d5130e0e38e6e404edc0b25ff7eba75.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_6d5130e0e38e6e404edc0b25ff7eba75.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_ec6a8b8c4126bc6f9d80540c69c789c8_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cu-di-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_ec6a8b8c4126bc6f9d80540c69c789c8_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cu-di-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_9ed01fc55c1250795b3c027c9679848f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cu-di-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_9ed01fc55c1250795b3c027c9679848f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cu-di-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_1f109c1c91c60d24f4d3219809a3a033.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "cu-di-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_4c265908ce454a4b8e8bc502f4256189_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cu-di-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_4c265908ce454a4b8e8bc502f4256189_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cu-di-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_ec6a8b8c4126bc6f9d80540c69c789c8_1.mp3",
+    "title" : "cu-di-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_ec6a8b8c4126bc6f9d80540c69c789c8_2.mp3",
+    "title" : "cu-di-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_9ed01fc55c1250795b3c027c9679848f_1.mp3",
+    "title" : "cu-di-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_9ed01fc55c1250795b3c027c9679848f_2.mp3",
+    "title" : "cu-di-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_1f109c1c91c60d24f4d3219809a3a033.mp3",
+    "title" : "cu-di-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_4c265908ce454a4b8e8bc502f4256189_1.mp3",
+    "title" : "cu-di-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6d5130e0e38e6e404edc0b25ff7eba75_4c265908ce454a4b8e8bc502f4256189_2.mp3",
+    "title" : "cu-di-4 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
