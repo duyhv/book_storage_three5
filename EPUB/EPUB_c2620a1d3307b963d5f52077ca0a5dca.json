@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chet-boi-gia-tao-thuc-tinh-truoc-khi-danh-mat-chinh-minh_19434.html",
+    "title" : "Chết Bởi Giả Tạo - Thức Tỉnh Trước Khi Đánh Mất Chính Mình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Sỹ Thanh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-28",
+    "duration" : 13344,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_c2620a1d3307b963d5f52077ca0a5dca.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_c2620a1d3307b963d5f52077ca0a5dca.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_875d0688db9a89b436ba344c9e0cca0a_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chet-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_875d0688db9a89b436ba344c9e0cca0a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chet-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_6828f007638cbf10df17268ba6d251ee_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chet-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_6828f007638cbf10df17268ba6d251ee_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chet-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_6042654e2c4e874a12f63af60156d4f9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chet-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_6042654e2c4e874a12f63af60156d4f9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "chet-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_d5c2675bf9ca5cd361f69e77344d1c56_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chương 3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_d5c2675bf9ca5cd361f69e77344d1c56_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chương 3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_d5c2675bf9ca5cd361f69e77344d1c56_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chương 3 (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_875d0688db9a89b436ba344c9e0cca0a_1.mp3",
+    "title" : "chet-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_875d0688db9a89b436ba344c9e0cca0a_2.mp3",
+    "title" : "chet-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_6828f007638cbf10df17268ba6d251ee_1.mp3",
+    "title" : "chet-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_6828f007638cbf10df17268ba6d251ee_2.mp3",
+    "title" : "chet-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_6042654e2c4e874a12f63af60156d4f9_1.mp3",
+    "title" : "chet-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_6042654e2c4e874a12f63af60156d4f9_2.mp3",
+    "title" : "chet-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_d5c2675bf9ca5cd361f69e77344d1c56_1.mp3",
+    "title" : "Chương 3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_d5c2675bf9ca5cd361f69e77344d1c56_2.mp3",
+    "title" : "Chương 3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_c2620a1d3307b963d5f52077ca0a5dca_d5c2675bf9ca5cd361f69e77344d1c56_3.mp3",
+    "title" : "Chương 3 (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
