@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-trinh-pha-an_20109.html",
+    "title" : "Hành Trình Phá Án",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 14117,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_d1666494e5da4c4ea3ebfe42a881fa4d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_d1666494e5da4c4ea3ebfe42a881fa4d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_4834f334e85045410848dd8b5338065e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 902,
+    "title" : "140 Ngày Truy Tìm Tên T.r.ộ.m G.i.ế.t Người, Đốt X.á.c Phi Tang Tạo Hiện Trường Giả | DTTV",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_712461e426081203bc454d98a205afee.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1325,
+    "title" : "3 Mẹ Con Bị C.ắ.t C.ổ, S.á.t H.ạ.i Dã Man - Và Hung Thủ M.a.n R.ợ Là Kẻ Không Ai Ngờ Đến | #DTTV",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_f5d7cbfe7455ce4aa2c1eda0cb72f073.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1543,
+    "title" : "Bí Mật Chiếc Hồ Lô 15 Tỷ Và Kế Hoạch Á.m S.á.t Trong Đêm Mưa: Tiếng Nổ Đoạt M.ạ.n.g Người | DTTV",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_ed448d92daa813bea4bfa66ffec66bad.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1891,
+    "title" : "Bí Ẩn Vụ Án 'X.á.c C.h.ế.t Không Đầu' Và Ác Quỷ Vùng Đất Cảng | Vụ Án Kinh Hoàng Nhất Hải Phòng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_5a25d2b904fd5a183f506e69c4c5031c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1942,
+    "title" : "Hai Mẹ Con Chủ Lô Đề Giết Người, Vứt Xuống Sông Xù Nợ - Người Mẹ Lạnh Lùng Nhìn Con Trai Gi.ết Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_cfa5220471fdcdef374b89ad4e1cafe1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1481,
+    "title" : "Kỳ Bí, Rùng Rợn Chuyện Thầy Phong Thuỷ Bị Sát Hại Sống Lại Và Mánh Khoé Tinh Vi Của Kẻ Thủ Ác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_ec42c6d6e4b2b29ac1c2c835e412f257.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2070,
+    "title" : "Tiếng Cú Trong Khu Vườn C.h.ế.t Chóc Che Giấu T.ộ.i Á.c Và Số Phận Những Anh Xe Ôm Xấu Số | DTTV",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_875848027e2857b19d1fe99ac8e9ce97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2117,
+    "title" : "X.á.c C.h.ế.t Bí Ẩn Trong Chiếc Va Ly Và T.ội Á.c Kinh Hoàng Của Gã Bạn Trai Người Hàn Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_5c1fd50dc13f49ea1a7163800bf16e48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 846,
+    "title" : "Á.n M.ạ.n.g Giữa Đồng - Sự Tàn Nh.ẫn Của Những Người Câm Điếc | Người Kh.uyết T.ật Có Được Giảm Án?",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_4834f334e85045410848dd8b5338065e.mp3",
+    "title" : "140 Ngày Truy Tìm Tên T.r.ộ.m G.i.ế.t Người, Đốt X.á.c Phi Tang Tạo Hiện Trường Giả | DTTV",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_712461e426081203bc454d98a205afee.mp3",
+    "title" : "3 Mẹ Con Bị C.ắ.t C.ổ, S.á.t H.ạ.i Dã Man - Và Hung Thủ M.a.n R.ợ Là Kẻ Không Ai Ngờ Đến | #DTTV",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_f5d7cbfe7455ce4aa2c1eda0cb72f073.mp3",
+    "title" : "Bí Mật Chiếc Hồ Lô 15 Tỷ Và Kế Hoạch Á.m S.á.t Trong Đêm Mưa: Tiếng Nổ Đoạt M.ạ.n.g Người | DTTV",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_ed448d92daa813bea4bfa66ffec66bad.mp3",
+    "title" : "Bí Ẩn Vụ Án 'X.á.c C.h.ế.t Không Đầu' Và Ác Quỷ Vùng Đất Cảng | Vụ Án Kinh Hoàng Nhất Hải Phòng",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_5a25d2b904fd5a183f506e69c4c5031c.mp3",
+    "title" : "Hai Mẹ Con Chủ Lô Đề Giết Người, Vứt Xuống Sông Xù Nợ - Người Mẹ Lạnh Lùng Nhìn Con Trai Gi.ết Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_cfa5220471fdcdef374b89ad4e1cafe1.mp3",
+    "title" : "Kỳ Bí, Rùng Rợn Chuyện Thầy Phong Thuỷ Bị Sát Hại Sống Lại Và Mánh Khoé Tinh Vi Của Kẻ Thủ Ác",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_ec42c6d6e4b2b29ac1c2c835e412f257.mp3",
+    "title" : "Tiếng Cú Trong Khu Vườn C.h.ế.t Chóc Che Giấu T.ộ.i Á.c Và Số Phận Những Anh Xe Ôm Xấu Số | DTTV",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_875848027e2857b19d1fe99ac8e9ce97.mp3",
+    "title" : "X.á.c C.h.ế.t Bí Ẩn Trong Chiếc Va Ly Và T.ội Á.c Kinh Hoàng Của Gã Bạn Trai Người Hàn Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_5c1fd50dc13f49ea1a7163800bf16e48.mp3",
+    "title" : "Á.n M.ạ.n.g Giữa Đồng - Sự Tàn Nh.ẫn Của Những Người Câm Điếc | Người Kh.uyết T.ật Có Được Giảm Án?",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
