@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thong-diep-yeu-thuong-luon-mim-cuoi-voi-cuoc-song_19684.html",
+    "title" : "Thông Điệp Yêu Thương - Luôn Mỉm Cười Với Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhã Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-19",
+    "duration" : 5562,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_2da6c89f32d76392067b6872367e2536.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_2da6c89f32d76392067b6872367e2536.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_2da6c89f32d76392067b6872367e2536_d3370d79812300fbd85a3e62ebebd0f2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Hay mim cuoi voi cuoc song (Nhieu Tac Gia ngoai quoc) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_2da6c89f32d76392067b6872367e2536_d3370d79812300fbd85a3e62ebebd0f2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Hay mim cuoi voi cuoc song (Nhieu Tac Gia ngoai quoc) (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_2da6c89f32d76392067b6872367e2536_d3370d79812300fbd85a3e62ebebd0f2_1.mp3",
+    "title" : "Hay mim cuoi voi cuoc song (Nhieu Tac Gia ngoai quoc) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_2da6c89f32d76392067b6872367e2536_d3370d79812300fbd85a3e62ebebd0f2_2.mp3",
+    "title" : "Hay mim cuoi voi cuoc song (Nhieu Tac Gia ngoai quoc) (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
