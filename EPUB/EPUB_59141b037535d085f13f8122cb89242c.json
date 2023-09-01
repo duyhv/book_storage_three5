@@ -1,0 +1,1241 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuy-duong-dien-nghia_17820.html",
+    "title" : "Tùy Đường Diễn Nghĩa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chữ Nhân Hoạch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-28",
+    "duration" : 195374,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_59141b037535d085f13f8122cb89242c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_59141b037535d085f13f8122cb89242c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 232,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1948,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2152,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1848,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1462,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2356,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1656,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1714,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1500,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1852,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1776,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2210,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1872,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2704,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1606,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1736,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1828,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2230,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2550,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1986,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1942,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1994,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2025.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1786,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2026.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2082,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1988,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2028.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2064,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2029.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2112,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2030.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2064,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2031.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2076,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2032.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1766,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2033.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 424,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2034.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1706,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2035.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2152,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2036.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1410,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2037.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2220,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2038.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1850,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2039.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1856,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2040.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1774,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2041.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 526,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2042.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1990,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2043.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2162,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2044.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1960,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2045.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2038,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2046.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2522,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2047.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2342,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2048.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2154,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2049.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2074,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2050.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2936,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2051.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2620,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2052.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2053.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2054.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1962,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2055.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2436,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2056.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2436,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2057.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2278,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2058.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2416,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2059.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2290,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2060.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2061.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2284,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2062.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2456,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2063.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2260,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2064.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2065.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1828,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2066.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1946,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2067.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1744,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2068.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2784,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2069.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1428,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2070.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1602,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2071.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2090,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2072.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1448,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2073.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1882,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2074.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1040,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2075.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2312,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2076.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1876,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2077.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1530,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2078.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2360,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2079.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2020,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2080.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2308,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2081.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1410,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2082.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2138,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2083.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2148,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2084.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2158,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2085.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2476,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2086.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1666,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2087.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1586,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2088.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1686,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2089.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1932,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2090.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2034,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2091.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1740,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2092.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1650,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2093.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1680,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2094.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1910,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2095.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1948,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2096.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2154,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2097.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1948,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 97",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2098.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1506,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2099.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2184,
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 99",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a_X2%2C%20H%E1%BB%93i%20100%20END.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2730,
+    "title" : "Audio Tuỳ Đường diễn nghĩa X2, Hồi 100 END",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2001.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2002.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2003.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2004.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2005.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2006.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2007.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2008.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2009.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2010.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2011.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2012.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2013.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2014.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2015.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2016.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2017.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2018.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2019.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2020.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2021.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2022.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2023.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2024.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2025.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2026.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2027.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2028.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2029.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2030.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2031.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2032.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2033.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2034.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2035.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2036.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2037.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2038.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2039.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2040.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2041.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2042.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2043.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2044.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2045.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2046.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2047.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2048.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2049.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2050.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2051.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2052.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2053.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2054.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2055.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2056.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2057.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2058.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2059.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2060.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2061.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2062.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2063.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2064.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2065.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2066.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2067.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2068.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2069.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2070.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2071.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2072.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2073.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2074.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2075.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2076.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2077.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2078.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2079.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2080.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2081.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2082.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2083.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2084.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2085.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2086.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2087.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2088.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2089.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2090.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2091.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2092.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2093.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2094.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2095.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2096.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2097.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 97",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2098.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 98",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a%2C%20H%E1%BB%93i%2099.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa, Hồi 99",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audio-tuy-duong-dien-nghia-hoi-50/Audio%20Tu%E1%BB%B3%20%C4%90%C6%B0%E1%BB%9Dng%20di%E1%BB%85n%20ngh%C4%A9a_X2%2C%20H%E1%BB%93i%20100%20END.mp3",
+    "title" : "Audio Tuỳ Đường diễn nghĩa X2, Hồi 100 END",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
