@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-voi-uoc-mo_16762.html",
+    "title" : "Sống Với Ước Mơ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-28",
+    "duration" : 6668,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_63fa8083100852cfb97199a384e98b49.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_63fa8083100852cfb97199a384e98b49.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_c227dd97ca65e3c64c35c6cae72ab2cb.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 854,
+    "title" : "SVUM-01-nu cau thu bong chay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_34b10f8afc6ef50b71e6327ad8984e44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 288,
+    "title" : "SVUM-02-theo duoi uoc mo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_058a253ed90ad1aab1a95d2b4db0847e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 490,
+    "title" : "SVUM-03-buoi phong van",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_9cb7470971e044cd07049c7f7daf3f27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 568,
+    "title" : "SVUM-04-mieng decal",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_cba8e5db26ea83e56f2802656fa01606.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 540,
+    "title" : "SVUM-05-hoa than",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_53fe64a297c3d6217a386f7e39e5fc53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 564,
+    "title" : "SVUM-06-toi dong phim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_b1a61028fdac01f4ddf6fc6122c085d7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 450,
+    "title" : "SVUM-07-buoi bieu dien truot ban",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_2c70f0defac54de101be62ef49c82379.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 544,
+    "title" : "SVUM-08-dieu ko the",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_917fcdee903211d7ea7c3c3c22081c3c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "SVUM-09-cai gieng cua ryan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_a45157c99df1ea6b488e54939f066106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 626,
+    "title" : "SVUM-10-cau chuyen ve ga cao boi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_234f69bec58262dca7525c7dd5abd516.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 904,
+    "title" : "SVUM-11-ngay me khoc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_c227dd97ca65e3c64c35c6cae72ab2cb.mp3",
+    "title" : "SVUM-01-nu cau thu bong chay",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_34b10f8afc6ef50b71e6327ad8984e44.mp3",
+    "title" : "SVUM-02-theo duoi uoc mo",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_058a253ed90ad1aab1a95d2b4db0847e.mp3",
+    "title" : "SVUM-03-buoi phong van",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_9cb7470971e044cd07049c7f7daf3f27.mp3",
+    "title" : "SVUM-04-mieng decal",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_cba8e5db26ea83e56f2802656fa01606.mp3",
+    "title" : "SVUM-05-hoa than",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_53fe64a297c3d6217a386f7e39e5fc53.mp3",
+    "title" : "SVUM-06-toi dong phim",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_b1a61028fdac01f4ddf6fc6122c085d7.mp3",
+    "title" : "SVUM-07-buoi bieu dien truot ban",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_2c70f0defac54de101be62ef49c82379.mp3",
+    "title" : "SVUM-08-dieu ko the",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_917fcdee903211d7ea7c3c3c22081c3c.mp3",
+    "title" : "SVUM-09-cai gieng cua ryan",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_a45157c99df1ea6b488e54939f066106.mp3",
+    "title" : "SVUM-10-cau chuyen ve ga cao boi",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63fa8083100852cfb97199a384e98b49_234f69bec58262dca7525c7dd5abd516.mp3",
+    "title" : "SVUM-11-ngay me khoc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
