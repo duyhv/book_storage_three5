@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kinh-dia-tang-bo-tat-bon-nguyen_19836.html",
+    "title" : "Kinh Địa Tạng Bồ Tát Bổn Nguyện",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhất Tuệ Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-21",
+    "duration" : 7267,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_3487a63ed38d2f92f80d0d28ce53601f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_3487a63ed38d2f92f80d0d28ce53601f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_52d26e6c2b317eb56cb0325f20945f41_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "kinh-dia-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_52d26e6c2b317eb56cb0325f20945f41_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "kinh-dia-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_e67ad5e71c1d193e30d2d1f2192ccbae_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "kinh-dia-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_e67ad5e71c1d193e30d2d1f2192ccbae_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "kinh-dia-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_52d26e6c2b317eb56cb0325f20945f41_1.mp3",
+    "title" : "kinh-dia-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_52d26e6c2b317eb56cb0325f20945f41_2.mp3",
+    "title" : "kinh-dia-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_e67ad5e71c1d193e30d2d1f2192ccbae_1.mp3",
+    "title" : "kinh-dia-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_e67ad5e71c1d193e30d2d1f2192ccbae_2.mp3",
+    "title" : "kinh-dia-2 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
