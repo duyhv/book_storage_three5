@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ky-nang-day-con-thoi-hien-dai_19861.html",
+    "title" : "Kỹ Năng Dạy Con Thời Hiện Đại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thành Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 6057,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_47fcacc154d53f3033cc8bc753b08ff0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_47fcacc154d53f3033cc8bc753b08ff0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_1.mp3",
+    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_2.mp3",
+    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_3.mp3",
+    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
