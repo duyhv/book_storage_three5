@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/noi-khong-co-cai-xau_20130.html",
+    "title" : "Nơi Không Có Cái Xấu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phùng Tiết",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 15740,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_fb2aa87b149769235bca6ea865adf131.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_fb2aa87b149769235bca6ea865adf131.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_f9275c910903b405c0bdae459b1c8113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1777,
+    "title" : "Chớp mắt một đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_4a0599ed8fb2861044147c759660a7eb.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1828,
+    "title" : "Cuối đất quê nhà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_b2ec6970161e2a6cb892d9a013156667.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1687,
+    "title" : "Khôn dại một đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_d580c9ddbd4774e2a7ec20184927e614.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1902,
+    "title" : "Làm chồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_e4077dfb541000e2f336b3e4187774cc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2522,
+    "title" : "Ngoài kia là biển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_5b75921b216e653d078e157666cffed2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2197,
+    "title" : "Phía trước là bầu trời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_43a2e9fcfa847ff15f2fd8196f96b637.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1768,
+    "title" : "Tan vào sương núi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_224fa368bd7d4c36315e93ac73030755_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "la-xanh (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_224fa368bd7d4c36315e93ac73030755_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "la-xanh (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_f9275c910903b405c0bdae459b1c8113.mp3",
+    "title" : "Chớp mắt một đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_4a0599ed8fb2861044147c759660a7eb.mp3",
+    "title" : "Cuối đất quê nhà",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_b2ec6970161e2a6cb892d9a013156667.mp3",
+    "title" : "Khôn dại một đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_d580c9ddbd4774e2a7ec20184927e614.mp3",
+    "title" : "Làm chồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_e4077dfb541000e2f336b3e4187774cc.mp3",
+    "title" : "Ngoài kia là biển",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_5b75921b216e653d078e157666cffed2.mp3",
+    "title" : "Phía trước là bầu trời",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_43a2e9fcfa847ff15f2fd8196f96b637.mp3",
+    "title" : "Tan vào sương núi",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_224fa368bd7d4c36315e93ac73030755_1.mp3",
+    "title" : "la-xanh (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_fb2aa87b149769235bca6ea865adf131_224fa368bd7d4c36315e93ac73030755_2.mp3",
+    "title" : "la-xanh (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
