@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-28",
+    "published" : "2023-09-06",
     "duration" : 14592,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,111 +26,63 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_bfad3659c8f9e3b813f7840f9731f416.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/EPUB/EPUB_bfad3659c8f9e3b813f7840f9731f416.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_bfad3659c8f9e3b813f7840f9731f416.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/IMAGE/IMAGE_bfad3659c8f9e3b813f7840f9731f416.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_fbc8682aa67bf40067ca6a9ea5280135_1.mp3",
+    "href" : "https://archive.org/download/duong-ve-1/duong-ve-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duong-ve-1 (1)",
+    "duration" : 3720,
+    "title" : "duong-ve-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_fbc8682aa67bf40067ca6a9ea5280135_2.mp3",
+    "href" : "https://archive.org/download/duong-ve-1/duong-ve-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duong-ve-1 (2)",
+    "duration" : 3720,
+    "title" : "duong-ve-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_41defa15fd34199b8535297a6d9be928_1.mp3",
+    "href" : "https://archive.org/download/duong-ve-1/duong-ve-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duong-ve-2 (1)",
+    "duration" : 3720,
+    "title" : "duong-ve-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_41defa15fd34199b8535297a6d9be928_2.mp3",
+    "href" : "https://archive.org/download/duong-ve-1/duong-ve-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duong-ve-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_3ba88ec9e362ae5f08374c52fb31a01e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duong-ve-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_3ba88ec9e362ae5f08374c52fb31a01e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duong-ve-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_aa37b869e8428f221d412487fcf63b69_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duong-ve-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_aa37b869e8428f221d412487fcf63b69_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "duong-ve-4 (2)",
+    "duration" : 3432,
+    "title" : "duong-ve-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_fbc8682aa67bf40067ca6a9ea5280135_1.mp3",
-    "title" : "duong-ve-1 (1)",
+    "href" : "https://archive.org/download/duong-ve-1/duong-ve-1.mp3",
+    "title" : "duong-ve-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_fbc8682aa67bf40067ca6a9ea5280135_2.mp3",
-    "title" : "duong-ve-1 (2)",
+    "href" : "https://archive.org/download/duong-ve-1/duong-ve-2.mp3",
+    "title" : "duong-ve-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_41defa15fd34199b8535297a6d9be928_1.mp3",
-    "title" : "duong-ve-2 (1)",
+    "href" : "https://archive.org/download/duong-ve-1/duong-ve-3.mp3",
+    "title" : "duong-ve-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_41defa15fd34199b8535297a6d9be928_2.mp3",
-    "title" : "duong-ve-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_3ba88ec9e362ae5f08374c52fb31a01e_1.mp3",
-    "title" : "duong-ve-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_3ba88ec9e362ae5f08374c52fb31a01e_2.mp3",
-    "title" : "duong-ve-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_aa37b869e8428f221d412487fcf63b69_1.mp3",
-    "title" : "duong-ve-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_bfad3659c8f9e3b813f7840f9731f416_aa37b869e8428f221d412487fcf63b69_2.mp3",
-    "title" : "duong-ve-4 (2)",
+    "href" : "https://archive.org/download/duong-ve-1/duong-ve-4.mp3",
+    "title" : "duong-ve-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

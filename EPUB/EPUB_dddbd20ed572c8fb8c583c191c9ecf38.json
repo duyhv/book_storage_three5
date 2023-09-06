@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
+    "published" : "2023-09-06",
     "duration" : 36607,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,135 +26,75 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/EPUB/EPUB_dddbd20ed572c8fb8c583c191c9ecf38.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/EPUB/EPUB_dddbd20ed572c8fb8c583c191c9ecf38.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/IMAGE/IMAGE_dddbd20ed572c8fb8c583c191c9ecf38.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/IMAGE/IMAGE_dddbd20ed572c8fb8c583c191c9ecf38.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_92420c1f0cc61c4c2161fc1eeb973750_1.mp3",
+    "href" : "https://archive.org/download/dung-ca-doi-de-quen/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P1 (1)",
+    "duration" : 7953,
+    "title" : "P1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_92420c1f0cc61c4c2161fc1eeb973750_2.mp3",
+    "href" : "https://archive.org/download/dung-ca-doi-de-quen/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "P1 (2)",
+    "duration" : 7466,
+    "title" : "p 2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_6fc32f72cc31eeb0a37f59720cd56079_1.mp3",
+    "href" : "https://archive.org/download/dung-ca-doi-de-quen/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "p 2 (1)",
+    "duration" : 6335,
+    "title" : "p 3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_6fc32f72cc31eeb0a37f59720cd56079_2.mp3",
+    "href" : "https://archive.org/download/dung-ca-doi-de-quen/4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "p 2 (2)",
+    "duration" : 6457,
+    "title" : "p 4",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_2152ccddbb19bc8fbe3663f713240aeb_1.mp3",
+    "href" : "https://archive.org/download/dung-ca-doi-de-quen/5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "p 3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_2152ccddbb19bc8fbe3663f713240aeb_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "p 3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_8d6e33ed082912fabde01805c5b3c625_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "p 4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_8d6e33ed082912fabde01805c5b3c625_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "p 4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_e70ab3c0926508133a248ea06541a77a_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "p 5 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_e70ab3c0926508133a248ea06541a77a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "p 5 (2)",
+    "duration" : 8396,
+    "title" : "p 5",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_92420c1f0cc61c4c2161fc1eeb973750_1.mp3",
-    "title" : "P1 (1)",
+    "href" : "https://archive.org/download/dung-ca-doi-de-quen/1.mp3",
+    "title" : "P1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_92420c1f0cc61c4c2161fc1eeb973750_2.mp3",
-    "title" : "P1 (2)",
+    "href" : "https://archive.org/download/dung-ca-doi-de-quen/2.mp3",
+    "title" : "p 2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_6fc32f72cc31eeb0a37f59720cd56079_1.mp3",
-    "title" : "p 2 (1)",
+    "href" : "https://archive.org/download/dung-ca-doi-de-quen/3.mp3",
+    "title" : "p 3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_6fc32f72cc31eeb0a37f59720cd56079_2.mp3",
-    "title" : "p 2 (2)",
+    "href" : "https://archive.org/download/dung-ca-doi-de-quen/4.mp3",
+    "title" : "p 4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_2152ccddbb19bc8fbe3663f713240aeb_1.mp3",
-    "title" : "p 3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_2152ccddbb19bc8fbe3663f713240aeb_2.mp3",
-    "title" : "p 3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_8d6e33ed082912fabde01805c5b3c625_1.mp3",
-    "title" : "p 4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_8d6e33ed082912fabde01805c5b3c625_2.mp3",
-    "title" : "p 4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_e70ab3c0926508133a248ea06541a77a_1.mp3",
-    "title" : "p 5 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three5/main/AUDIO/AUDIO_dddbd20ed572c8fb8c583c191c9ecf38_e70ab3c0926508133a248ea06541a77a_2.mp3",
-    "title" : "p 5 (2)",
+    "href" : "https://archive.org/download/dung-ca-doi-de-quen/5.mp3",
+    "title" : "p 5",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

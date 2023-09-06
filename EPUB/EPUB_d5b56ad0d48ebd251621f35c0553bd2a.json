@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-07",
+    "published" : "2023-09-06",
     "duration" : 47485,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,327 +26,147 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_d5b56ad0d48ebd251621f35c0553bd2a.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/EPUB/EPUB_d5b56ad0d48ebd251621f35c0553bd2a.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_d5b56ad0d48ebd251621f35c0553bd2a.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/IMAGE/IMAGE_d5b56ad0d48ebd251621f35c0553bd2a.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_de0344524813fdbad22bc24c9e4ede01_1.mp3",
+    "href" : "https://archive.org/download/aqtpt/00001_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00001 Ác Quỷ Thành Phố Trắng (1)",
+    "duration" : 4409,
+    "title" : "00001 Ác Quỷ Thành Phố Trắng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_de0344524813fdbad22bc24c9e4ede01_2.mp3",
+    "href" : "https://archive.org/download/aqtpt/00002_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00001 Ác Quỷ Thành Phố Trắng (2)",
+    "duration" : 3493,
+    "title" : "00002 Ác Quỷ Thành Phố Trắng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_de0344524813fdbad22bc24c9e4ede01_3.mp3",
+    "href" : "https://archive.org/download/aqtpt/00003_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00001 Ác Quỷ Thành Phố Trắng (3)",
+    "duration" : 4135,
+    "title" : "00003 Ác Quỷ Thành Phố Trắng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_7929dcae73c77a260606dc67159c8bdf_1.mp3",
+    "href" : "https://archive.org/download/aqtpt/00004_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00002 Ác Quỷ Thành Phố Trắng (1)",
+    "duration" : 3707,
+    "title" : "00004 Ác Quỷ Thành Phố Trắng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_7929dcae73c77a260606dc67159c8bdf_2.mp3",
+    "href" : "https://archive.org/download/aqtpt/00005_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00002 Ác Quỷ Thành Phố Trắng (2)",
+    "duration" : 4484,
+    "title" : "00005 Ác Quỷ Thành Phố Trắng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_b738ad17cf6b5eb22a56b5096463286e_1.mp3",
+    "href" : "https://archive.org/download/aqtpt/00006_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00003 Ác Quỷ Thành Phố Trắng (1)",
+    "duration" : 3737,
+    "title" : "00006 Ác Quỷ Thành Phố Trắng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_b738ad17cf6b5eb22a56b5096463286e_2.mp3",
+    "href" : "https://archive.org/download/aqtpt/00007_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00003 Ác Quỷ Thành Phố Trắng (2)",
+    "duration" : 5187,
+    "title" : "00007 Ác Quỷ Thành Phố Trắng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_0fb0446504747dda4502614110bedcda_1.mp3",
+    "href" : "https://archive.org/download/aqtpt/00008_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00004 Ác Quỷ Thành Phố Trắng (1)",
+    "duration" : 4128,
+    "title" : "00008 Ác Quỷ Thành Phố Trắng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_0fb0446504747dda4502614110bedcda_2.mp3",
+    "href" : "https://archive.org/download/aqtpt/00009_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00004 Ác Quỷ Thành Phố Trắng (2)",
+    "duration" : 4241,
+    "title" : "00009 Ác Quỷ Thành Phố Trắng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_fec080f6928e1934e138d506d49e780b_1.mp3",
+    "href" : "https://archive.org/download/aqtpt/00010_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00005 Ác Quỷ Thành Phố Trắng (1)",
+    "duration" : 3699,
+    "title" : "00010 Ác Quỷ Thành Phố Trắng",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_fec080f6928e1934e138d506d49e780b_2.mp3",
+    "href" : "https://archive.org/download/aqtpt/00011_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00005 Ác Quỷ Thành Phố Trắng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_fec080f6928e1934e138d506d49e780b_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00005 Ác Quỷ Thành Phố Trắng (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_7cf0c097035ae760167f3d8591aa53fd_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00006 Ác Quỷ Thành Phố Trắng (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_7cf0c097035ae760167f3d8591aa53fd_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00006 Ác Quỷ Thành Phố Trắng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_5fe3449977741350fd910351c7a12e92_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00007 Ác Quỷ Thành Phố Trắng (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_5fe3449977741350fd910351c7a12e92_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00007 Ác Quỷ Thành Phố Trắng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_5fe3449977741350fd910351c7a12e92_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00007 Ác Quỷ Thành Phố Trắng (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_d59ac4b6a13e84ec05ffd36b11b3052b_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00008 Ác Quỷ Thành Phố Trắng (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_d59ac4b6a13e84ec05ffd36b11b3052b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00008 Ác Quỷ Thành Phố Trắng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_bdddecf56f6c8c6290157b24390f8fc3_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00009 Ác Quỷ Thành Phố Trắng (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_bdddecf56f6c8c6290157b24390f8fc3_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00009 Ác Quỷ Thành Phố Trắng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_2134c25e7ab397ef7db4e3b1f4c3f04c_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00010 Ác Quỷ Thành Phố Trắng (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_2134c25e7ab397ef7db4e3b1f4c3f04c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00010 Ác Quỷ Thành Phố Trắng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_09723d1ae6bcbaabb71d69ceb97908dc_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00011 Ác Quỷ Thành Phố Trắng (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_09723d1ae6bcbaabb71d69ceb97908dc_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00011 Ác Quỷ Thành Phố Trắng (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_09723d1ae6bcbaabb71d69ceb97908dc_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "00011 Ác Quỷ Thành Phố Trắng (3)",
+    "duration" : 6265,
+    "title" : "00011 Ác Quỷ Thành Phố Trắng",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_de0344524813fdbad22bc24c9e4ede01_1.mp3",
-    "title" : "00001 Ác Quỷ Thành Phố Trắng (1)",
+    "href" : "https://archive.org/download/aqtpt/00001_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "title" : "00001 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_de0344524813fdbad22bc24c9e4ede01_2.mp3",
-    "title" : "00001 Ác Quỷ Thành Phố Trắng (2)",
+    "href" : "https://archive.org/download/aqtpt/00002_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "title" : "00002 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_de0344524813fdbad22bc24c9e4ede01_3.mp3",
-    "title" : "00001 Ác Quỷ Thành Phố Trắng (3)",
+    "href" : "https://archive.org/download/aqtpt/00003_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "title" : "00003 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_7929dcae73c77a260606dc67159c8bdf_1.mp3",
-    "title" : "00002 Ác Quỷ Thành Phố Trắng (1)",
+    "href" : "https://archive.org/download/aqtpt/00004_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "title" : "00004 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_7929dcae73c77a260606dc67159c8bdf_2.mp3",
-    "title" : "00002 Ác Quỷ Thành Phố Trắng (2)",
+    "href" : "https://archive.org/download/aqtpt/00005_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "title" : "00005 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_b738ad17cf6b5eb22a56b5096463286e_1.mp3",
-    "title" : "00003 Ác Quỷ Thành Phố Trắng (1)",
+    "href" : "https://archive.org/download/aqtpt/00006_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "title" : "00006 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_b738ad17cf6b5eb22a56b5096463286e_2.mp3",
-    "title" : "00003 Ác Quỷ Thành Phố Trắng (2)",
+    "href" : "https://archive.org/download/aqtpt/00007_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "title" : "00007 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_0fb0446504747dda4502614110bedcda_1.mp3",
-    "title" : "00004 Ác Quỷ Thành Phố Trắng (1)",
+    "href" : "https://archive.org/download/aqtpt/00008_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "title" : "00008 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_0fb0446504747dda4502614110bedcda_2.mp3",
-    "title" : "00004 Ác Quỷ Thành Phố Trắng (2)",
+    "href" : "https://archive.org/download/aqtpt/00009_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "title" : "00009 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_fec080f6928e1934e138d506d49e780b_1.mp3",
-    "title" : "00005 Ác Quỷ Thành Phố Trắng (1)",
+    "href" : "https://archive.org/download/aqtpt/00010_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "title" : "00010 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_fec080f6928e1934e138d506d49e780b_2.mp3",
-    "title" : "00005 Ác Quỷ Thành Phố Trắng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_fec080f6928e1934e138d506d49e780b_3.mp3",
-    "title" : "00005 Ác Quỷ Thành Phố Trắng (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_7cf0c097035ae760167f3d8591aa53fd_1.mp3",
-    "title" : "00006 Ác Quỷ Thành Phố Trắng (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_7cf0c097035ae760167f3d8591aa53fd_2.mp3",
-    "title" : "00006 Ác Quỷ Thành Phố Trắng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_5fe3449977741350fd910351c7a12e92_1.mp3",
-    "title" : "00007 Ác Quỷ Thành Phố Trắng (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_5fe3449977741350fd910351c7a12e92_2.mp3",
-    "title" : "00007 Ác Quỷ Thành Phố Trắng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_5fe3449977741350fd910351c7a12e92_3.mp3",
-    "title" : "00007 Ác Quỷ Thành Phố Trắng (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_d59ac4b6a13e84ec05ffd36b11b3052b_1.mp3",
-    "title" : "00008 Ác Quỷ Thành Phố Trắng (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_d59ac4b6a13e84ec05ffd36b11b3052b_2.mp3",
-    "title" : "00008 Ác Quỷ Thành Phố Trắng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_bdddecf56f6c8c6290157b24390f8fc3_1.mp3",
-    "title" : "00009 Ác Quỷ Thành Phố Trắng (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_bdddecf56f6c8c6290157b24390f8fc3_2.mp3",
-    "title" : "00009 Ác Quỷ Thành Phố Trắng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_2134c25e7ab397ef7db4e3b1f4c3f04c_1.mp3",
-    "title" : "00010 Ác Quỷ Thành Phố Trắng (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_2134c25e7ab397ef7db4e3b1f4c3f04c_2.mp3",
-    "title" : "00010 Ác Quỷ Thành Phố Trắng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_09723d1ae6bcbaabb71d69ceb97908dc_1.mp3",
-    "title" : "00011 Ác Quỷ Thành Phố Trắng (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_09723d1ae6bcbaabb71d69ceb97908dc_2.mp3",
-    "title" : "00011 Ác Quỷ Thành Phố Trắng (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d5b56ad0d48ebd251621f35c0553bd2a_09723d1ae6bcbaabb71d69ceb97908dc_3.mp3",
-    "title" : "00011 Ác Quỷ Thành Phố Trắng (3)",
+    "href" : "https://archive.org/download/aqtpt/00011_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "title" : "00011 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

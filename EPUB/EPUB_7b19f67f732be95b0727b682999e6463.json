@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-28",
+    "published" : "2023-09-06",
     "duration" : 21762,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,159 +26,63 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_7b19f67f732be95b0727b682999e6463.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/EPUB/EPUB_7b19f67f732be95b0727b682999e6463.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_7b19f67f732be95b0727b682999e6463.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/IMAGE/IMAGE_7b19f67f732be95b0727b682999e6463.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_2d53a20ef79a92a12548799a03ac0411_1.mp3",
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-1 (1)",
+    "duration" : 5896,
+    "title" : "danh-cap-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_2d53a20ef79a92a12548799a03ac0411_2.mp3",
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-1 (2)",
+    "duration" : 6090,
+    "title" : "danh-cap-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_2d53a20ef79a92a12548799a03ac0411_3.mp3",
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-1 (3)",
+    "duration" : 6204,
+    "title" : "danh-cap-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_2d53a20ef79a92a12548799a03ac0411_4.mp3",
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-1 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_daa65e162c191c068fab49c3d58fe271_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_daa65e162c191c068fab49c3d58fe271_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_daa65e162c191c068fab49c3d58fe271_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_daa65e162c191c068fab49c3d58fe271_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-2 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_c850fdeaba1e56a5b2ed20c5c0b02976_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_c850fdeaba1e56a5b2ed20c5c0b02976_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_55610d268119d42f07432d8a45f800ce_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_55610d268119d42f07432d8a45f800ce_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "danh-cap-4 (2)",
+    "duration" : 3572,
+    "title" : "danh-cap-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_2d53a20ef79a92a12548799a03ac0411_1.mp3",
-    "title" : "danh-cap-1 (1)",
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-1.mp3",
+    "title" : "danh-cap-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_2d53a20ef79a92a12548799a03ac0411_2.mp3",
-    "title" : "danh-cap-1 (2)",
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-2.mp3",
+    "title" : "danh-cap-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_2d53a20ef79a92a12548799a03ac0411_3.mp3",
-    "title" : "danh-cap-1 (3)",
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-3.mp3",
+    "title" : "danh-cap-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_2d53a20ef79a92a12548799a03ac0411_4.mp3",
-    "title" : "danh-cap-1 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_daa65e162c191c068fab49c3d58fe271_1.mp3",
-    "title" : "danh-cap-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_daa65e162c191c068fab49c3d58fe271_2.mp3",
-    "title" : "danh-cap-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_daa65e162c191c068fab49c3d58fe271_3.mp3",
-    "title" : "danh-cap-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_daa65e162c191c068fab49c3d58fe271_4.mp3",
-    "title" : "danh-cap-2 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_c850fdeaba1e56a5b2ed20c5c0b02976_1.mp3",
-    "title" : "danh-cap-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_c850fdeaba1e56a5b2ed20c5c0b02976_2.mp3",
-    "title" : "danh-cap-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_55610d268119d42f07432d8a45f800ce_1.mp3",
-    "title" : "danh-cap-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_7b19f67f732be95b0727b682999e6463_55610d268119d42f07432d8a45f800ce_2.mp3",
-    "title" : "danh-cap-4 (2)",
+    "href" : "https://archive.org/download/danh-cap-3/danh-cap-4.mp3",
+    "title" : "danh-cap-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

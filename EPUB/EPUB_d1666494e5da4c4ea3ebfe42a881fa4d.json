@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
-    "duration" : 14117,
+    "published" : "2023-09-06",
+    "duration" : 28234,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_d1666494e5da4c4ea3ebfe42a881fa4d.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/EPUB/EPUB_d1666494e5da4c4ea3ebfe42a881fa4d.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_d1666494e5da4c4ea3ebfe42a881fa4d.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/IMAGE/IMAGE_d1666494e5da4c4ea3ebfe42a881fa4d.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_4834f334e85045410848dd8b5338065e.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/140%20Ng%C3%A0y%20Truy%20T%C3%ACm%20T%C3%AAn%20T.r.%E1%BB%99.m%20G.i.%E1%BA%BF.t%20Ng%C6%B0%E1%BB%9Di%2C%20%C4%90%E1%BB%91t%20X.%C3%A1.c%20Phi%20Tang%20T%E1%BA%A1o%20Hi%E1%BB%87n%20Tr%C6%B0%E1%BB%9Dng%20Gi%E1%BA%A3%20%20DTTV.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 902,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_712461e426081203bc454d98a205afee.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/3%20M%E1%BA%B9%20Con%20B%E1%BB%8B%20C.%E1%BA%AF.t%20C.%E1%BB%95%2C%20S.%C3%A1.t%20H.%E1%BA%A1.i%20D%C3%A3%20Man%20-%20V%C3%A0%20Hung%20Th%E1%BB%A7%20M.a.n%20R.%E1%BB%A3%20L%C3%A0%20K%E1%BA%BB%20Kh%C3%B4ng%20Ai%20Ng%E1%BB%9D%20%C4%90%E1%BA%BFn%20%20%23DTTV.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1325,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_f5d7cbfe7455ce4aa2c1eda0cb72f073.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/B%C3%AD%20M%E1%BA%ADt%20Chi%E1%BA%BFc%20H%E1%BB%93%20L%C3%B4%2015%20T%E1%BB%B7%20V%C3%A0%20K%E1%BA%BF%20Ho%E1%BA%A1ch%20%C3%81.m%20S.%C3%A1.t%20Trong%20%C4%90%C3%AAm%20M%C6%B0a%20Ti%E1%BA%BFng%20N%E1%BB%95%20%C4%90o%E1%BA%A1t%20M.%E1%BA%A1.n.g%20Ng%C6%B0%E1%BB%9Di%20%20DTTV.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1543,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_ed448d92daa813bea4bfa66ffec66bad.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/B%C3%AD%20%E1%BA%A8n%20V%E1%BB%A5%20%C3%81n%20%27X.%C3%A1.c%20C.h.%E1%BA%BF.t%20Kh%C3%B4ng%20%C4%90%E1%BA%A7u%27%20V%C3%A0%20%C3%81c%20Qu%E1%BB%B7%20V%C3%B9ng%20%C4%90%E1%BA%A5t%20C%E1%BA%A3ng%20%20V%E1%BB%A5%20%C3%81n%20Kinh%20Ho%C3%A0ng%20Nh%E1%BA%A5t%20H%E1%BA%A3i%20Ph%C3%B2ng.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1891,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_5a25d2b904fd5a183f506e69c4c5031c.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/Hai%20M%E1%BA%B9%20Con%20Ch%E1%BB%A7%20L%C3%B4%20%C4%90%E1%BB%81%20Gi%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%2C%20V%E1%BB%A9t%20Xu%E1%BB%91ng%20S%C3%B4ng%20X%C3%B9%20N%E1%BB%A3%20-%20Ng%C6%B0%E1%BB%9Di%20M%E1%BA%B9%20L%E1%BA%A1nh%20L%C3%B9ng%20Nh%C3%ACn%20Con%20Trai%20Gi.%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1942,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_cfa5220471fdcdef374b89ad4e1cafe1.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/K%E1%BB%B3%20B%C3%AD%2C%20R%C3%B9ng%20R%E1%BB%A3n%20Chuy%E1%BB%87n%20Th%E1%BA%A7y%20Phong%20Thu%E1%BB%B7%20B%E1%BB%8B%20S%C3%A1t%20H%E1%BA%A1i%20S%E1%BB%91ng%20L%E1%BA%A1i%20V%C3%A0%20M%C3%A1nh%20Kho%C3%A9%20Tinh%20Vi%20C%E1%BB%A7a%20K%E1%BA%BB%20Th%E1%BB%A7%20%C3%81c.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1481,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_ec42c6d6e4b2b29ac1c2c835e412f257.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/Ti%E1%BA%BFng%20C%C3%BA%20Trong%20Khu%20V%C6%B0%E1%BB%9Dn%20C.h.%E1%BA%BF.t%20Ch%C3%B3c%20Che%20Gi%E1%BA%A5u%20T.%E1%BB%99.i%20%C3%81.c%20V%C3%A0%20S%E1%BB%91%20Ph%E1%BA%ADn%20Nh%E1%BB%AFng%20Anh%20Xe%20%C3%94m%20X%E1%BA%A5u%20S%E1%BB%91%20%20DTTV.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2070,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_875848027e2857b19d1fe99ac8e9ce97.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/X.%C3%A1.c%20C.h.%E1%BA%BF.t%20B%C3%AD%20%E1%BA%A8n%20Trong%20Chi%E1%BA%BFc%20Va%20Ly%20V%C3%A0%20T.%E1%BB%99i%20%C3%81.c%20Kinh%20Ho%C3%A0ng%20C%E1%BB%A7a%20G%C3%A3%20B%E1%BA%A1n%20Trai%20Ng%C6%B0%E1%BB%9Di%20H%C3%A0n%20Qu%E1%BB%91c%20-%20FULL.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2117,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_5c1fd50dc13f49ea1a7163800bf16e48.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/%C3%81.n%20M.%E1%BA%A1.n.g%20Gi%E1%BB%AFa%20%C4%90%E1%BB%93ng%20-%20S%E1%BB%B1%20T%C3%A0n%20Nh.%E1%BA%ABn%20C%E1%BB%A7a%20Nh%E1%BB%AFng%20Ng%C6%B0%E1%BB%9Di%20C%C3%A2m%20%C4%90i%E1%BA%BFc%20%20Ng%C6%B0%E1%BB%9Di%20Kh.uy%E1%BA%BFt%20T.%E1%BA%ADt%20C%C3%B3%20%C4%90%C6%B0%E1%BB%A3c%20Gi%E1%BA%A3m%20%C3%81n.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 846,
@@ -109,39 +109,39 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_4834f334e85045410848dd8b5338065e.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/140%20Ng%C3%A0y%20Truy%20T%C3%ACm%20T%C3%AAn%20T.r.%E1%BB%99.m%20G.i.%E1%BA%BF.t%20Ng%C6%B0%E1%BB%9Di%2C%20%C4%90%E1%BB%91t%20X.%C3%A1.c%20Phi%20Tang%20T%E1%BA%A1o%20Hi%E1%BB%87n%20Tr%C6%B0%E1%BB%9Dng%20Gi%E1%BA%A3%20%20DTTV.mp3",
     "title" : "140 Ngày Truy Tìm Tên T.r.ộ.m G.i.ế.t Người, Đốt X.á.c Phi Tang Tạo Hiện Trường Giả | DTTV",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_712461e426081203bc454d98a205afee.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/3%20M%E1%BA%B9%20Con%20B%E1%BB%8B%20C.%E1%BA%AF.t%20C.%E1%BB%95%2C%20S.%C3%A1.t%20H.%E1%BA%A1.i%20D%C3%A3%20Man%20-%20V%C3%A0%20Hung%20Th%E1%BB%A7%20M.a.n%20R.%E1%BB%A3%20L%C3%A0%20K%E1%BA%BB%20Kh%C3%B4ng%20Ai%20Ng%E1%BB%9D%20%C4%90%E1%BA%BFn%20%20%23DTTV.mp3",
     "title" : "3 Mẹ Con Bị C.ắ.t C.ổ, S.á.t H.ạ.i Dã Man - Và Hung Thủ M.a.n R.ợ Là Kẻ Không Ai Ngờ Đến | #DTTV",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_f5d7cbfe7455ce4aa2c1eda0cb72f073.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/B%C3%AD%20M%E1%BA%ADt%20Chi%E1%BA%BFc%20H%E1%BB%93%20L%C3%B4%2015%20T%E1%BB%B7%20V%C3%A0%20K%E1%BA%BF%20Ho%E1%BA%A1ch%20%C3%81.m%20S.%C3%A1.t%20Trong%20%C4%90%C3%AAm%20M%C6%B0a%20Ti%E1%BA%BFng%20N%E1%BB%95%20%C4%90o%E1%BA%A1t%20M.%E1%BA%A1.n.g%20Ng%C6%B0%E1%BB%9Di%20%20DTTV.mp3",
     "title" : "Bí Mật Chiếc Hồ Lô 15 Tỷ Và Kế Hoạch Á.m S.á.t Trong Đêm Mưa: Tiếng Nổ Đoạt M.ạ.n.g Người | DTTV",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_ed448d92daa813bea4bfa66ffec66bad.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/B%C3%AD%20%E1%BA%A8n%20V%E1%BB%A5%20%C3%81n%20%27X.%C3%A1.c%20C.h.%E1%BA%BF.t%20Kh%C3%B4ng%20%C4%90%E1%BA%A7u%27%20V%C3%A0%20%C3%81c%20Qu%E1%BB%B7%20V%C3%B9ng%20%C4%90%E1%BA%A5t%20C%E1%BA%A3ng%20%20V%E1%BB%A5%20%C3%81n%20Kinh%20Ho%C3%A0ng%20Nh%E1%BA%A5t%20H%E1%BA%A3i%20Ph%C3%B2ng.mp3",
     "title" : "Bí Ẩn Vụ Án 'X.á.c C.h.ế.t Không Đầu' Và Ác Quỷ Vùng Đất Cảng | Vụ Án Kinh Hoàng Nhất Hải Phòng",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_5a25d2b904fd5a183f506e69c4c5031c.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/Hai%20M%E1%BA%B9%20Con%20Ch%E1%BB%A7%20L%C3%B4%20%C4%90%E1%BB%81%20Gi%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%2C%20V%E1%BB%A9t%20Xu%E1%BB%91ng%20S%C3%B4ng%20X%C3%B9%20N%E1%BB%A3%20-%20Ng%C6%B0%E1%BB%9Di%20M%E1%BA%B9%20L%E1%BA%A1nh%20L%C3%B9ng%20Nh%C3%ACn%20Con%20Trai%20Gi.%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di.mp3",
     "title" : "Hai Mẹ Con Chủ Lô Đề Giết Người, Vứt Xuống Sông Xù Nợ - Người Mẹ Lạnh Lùng Nhìn Con Trai Gi.ết Người",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_cfa5220471fdcdef374b89ad4e1cafe1.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/K%E1%BB%B3%20B%C3%AD%2C%20R%C3%B9ng%20R%E1%BB%A3n%20Chuy%E1%BB%87n%20Th%E1%BA%A7y%20Phong%20Thu%E1%BB%B7%20B%E1%BB%8B%20S%C3%A1t%20H%E1%BA%A1i%20S%E1%BB%91ng%20L%E1%BA%A1i%20V%C3%A0%20M%C3%A1nh%20Kho%C3%A9%20Tinh%20Vi%20C%E1%BB%A7a%20K%E1%BA%BB%20Th%E1%BB%A7%20%C3%81c.mp3",
     "title" : "Kỳ Bí, Rùng Rợn Chuyện Thầy Phong Thuỷ Bị Sát Hại Sống Lại Và Mánh Khoé Tinh Vi Của Kẻ Thủ Ác",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_ec42c6d6e4b2b29ac1c2c835e412f257.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/Ti%E1%BA%BFng%20C%C3%BA%20Trong%20Khu%20V%C6%B0%E1%BB%9Dn%20C.h.%E1%BA%BF.t%20Ch%C3%B3c%20Che%20Gi%E1%BA%A5u%20T.%E1%BB%99.i%20%C3%81.c%20V%C3%A0%20S%E1%BB%91%20Ph%E1%BA%ADn%20Nh%E1%BB%AFng%20Anh%20Xe%20%C3%94m%20X%E1%BA%A5u%20S%E1%BB%91%20%20DTTV.mp3",
     "title" : "Tiếng Cú Trong Khu Vườn C.h.ế.t Chóc Che Giấu T.ộ.i Á.c Và Số Phận Những Anh Xe Ôm Xấu Số | DTTV",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_875848027e2857b19d1fe99ac8e9ce97.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/X.%C3%A1.c%20C.h.%E1%BA%BF.t%20B%C3%AD%20%E1%BA%A8n%20Trong%20Chi%E1%BA%BFc%20Va%20Ly%20V%C3%A0%20T.%E1%BB%99i%20%C3%81.c%20Kinh%20Ho%C3%A0ng%20C%E1%BB%A7a%20G%C3%A3%20B%E1%BA%A1n%20Trai%20Ng%C6%B0%E1%BB%9Di%20H%C3%A0n%20Qu%E1%BB%91c%20-%20FULL.mp3",
     "title" : "X.á.c C.h.ế.t Bí Ẩn Trong Chiếc Va Ly Và T.ội Á.c Kinh Hoàng Của Gã Bạn Trai Người Hàn Quốc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_d1666494e5da4c4ea3ebfe42a881fa4d_5c1fd50dc13f49ea1a7163800bf16e48.mp3",
+    "href" : "https://archive.org/download/tieng-cu-trong-khu-vuon-c.h.e.t-choc-che-giau-t.o.i-a.c-va-so-phan-nhung-anh-xe-om-xau-so-dttv/%C3%81.n%20M.%E1%BA%A1.n.g%20Gi%E1%BB%AFa%20%C4%90%E1%BB%93ng%20-%20S%E1%BB%B1%20T%C3%A0n%20Nh.%E1%BA%ABn%20C%E1%BB%A7a%20Nh%E1%BB%AFng%20Ng%C6%B0%E1%BB%9Di%20C%C3%A2m%20%C4%90i%E1%BA%BFc%20%20Ng%C6%B0%E1%BB%9Di%20Kh.uy%E1%BA%BFt%20T.%E1%BA%ADt%20C%C3%B3%20%C4%90%C6%B0%E1%BB%A3c%20Gi%E1%BA%A3m%20%C3%81n.mp3",
     "title" : "Á.n M.ạ.n.g Giữa Đồng - Sự Tàn Nh.ẫn Của Những Người Câm Điếc | Người Kh.uyết T.ật Có Được Giảm Án?",
     "children" : [ ]
   } ],

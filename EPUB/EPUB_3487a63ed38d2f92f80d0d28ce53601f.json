@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
+    "published" : "2023-09-06",
     "duration" : 7267,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,63 +26,39 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_3487a63ed38d2f92f80d0d28ce53601f.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/EPUB/EPUB_3487a63ed38d2f92f80d0d28ce53601f.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_3487a63ed38d2f92f80d0d28ce53601f.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/IMAGE/IMAGE_3487a63ed38d2f92f80d0d28ce53601f.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_52d26e6c2b317eb56cb0325f20945f41_1.mp3",
+    "href" : "https://archive.org/download/kinh-dia-1/kinh-dia-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "kinh-dia-1 (1)",
+    "duration" : 3660,
+    "title" : "kinh-dia-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_52d26e6c2b317eb56cb0325f20945f41_2.mp3",
+    "href" : "https://archive.org/download/kinh-dia-1/kinh-dia-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "kinh-dia-1 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_e67ad5e71c1d193e30d2d1f2192ccbae_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "kinh-dia-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_e67ad5e71c1d193e30d2d1f2192ccbae_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "kinh-dia-2 (2)",
+    "duration" : 3607,
+    "title" : "kinh-dia-2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_52d26e6c2b317eb56cb0325f20945f41_1.mp3",
-    "title" : "kinh-dia-1 (1)",
+    "href" : "https://archive.org/download/kinh-dia-1/kinh-dia-1.mp3",
+    "title" : "kinh-dia-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_52d26e6c2b317eb56cb0325f20945f41_2.mp3",
-    "title" : "kinh-dia-1 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_e67ad5e71c1d193e30d2d1f2192ccbae_1.mp3",
-    "title" : "kinh-dia-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_3487a63ed38d2f92f80d0d28ce53601f_e67ad5e71c1d193e30d2d1f2192ccbae_2.mp3",
-    "title" : "kinh-dia-2 (2)",
+    "href" : "https://archive.org/download/kinh-dia-1/kinh-dia-2.mp3",
+    "title" : "kinh-dia-2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

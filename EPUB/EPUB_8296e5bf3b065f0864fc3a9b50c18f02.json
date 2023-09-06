@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-12",
+    "published" : "2023-09-06",
     "duration" : 3643,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,51 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_8296e5bf3b065f0864fc3a9b50c18f02.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/EPUB/EPUB_8296e5bf3b065f0864fc3a9b50c18f02.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_8296e5bf3b065f0864fc3a9b50c18f02.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/IMAGE/IMAGE_8296e5bf3b065f0864fc3a9b50c18f02.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8296e5bf3b065f0864fc3a9b50c18f02_f851291b2c9ea0fb17b05e3db93a5a69_1.mp3",
+    "href" : "https://archive.org/download/thao-tung-tam-ly-tinh-hoa-sach-noi/thao-tung-tam-ly-kho-sach-noi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Trọn bộ (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8296e5bf3b065f0864fc3a9b50c18f02_f851291b2c9ea0fb17b05e3db93a5a69_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Trọn bộ (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8296e5bf3b065f0864fc3a9b50c18f02_f851291b2c9ea0fb17b05e3db93a5a69_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Trọn bộ (3)",
+    "duration" : 3643,
+    "title" : "Trọn bộ",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8296e5bf3b065f0864fc3a9b50c18f02_f851291b2c9ea0fb17b05e3db93a5a69_1.mp3",
-    "title" : "Trọn bộ (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8296e5bf3b065f0864fc3a9b50c18f02_f851291b2c9ea0fb17b05e3db93a5a69_2.mp3",
-    "title" : "Trọn bộ (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8296e5bf3b065f0864fc3a9b50c18f02_f851291b2c9ea0fb17b05e3db93a5a69_3.mp3",
-    "title" : "Trọn bộ (3)",
+    "href" : "https://archive.org/download/thao-tung-tam-ly-tinh-hoa-sach-noi/thao-tung-tam-ly-kho-sach-noi.mp3",
+    "title" : "Trọn bộ",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

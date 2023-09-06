@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-24",
+    "published" : "2023-09-06",
     "duration" : 13422,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,111 +26,63 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_8d755cd8a4774fc09d9410a1dbc59c6e.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/EPUB/EPUB_8d755cd8a4774fc09d9410a1dbc59c6e.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_8d755cd8a4774fc09d9410a1dbc59c6e.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/IMAGE/IMAGE_8d755cd8a4774fc09d9410a1dbc59c6e.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_b5b87e502473ff4fcf4a1fdb8add5221_1.mp3",
+    "href" : "https://archive.org/download/song-nhu-1/song-nhu-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-nhu-1 (1)",
+    "duration" : 3600,
+    "title" : "song-nhu-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_b5b87e502473ff4fcf4a1fdb8add5221_2.mp3",
+    "href" : "https://archive.org/download/song-nhu-1/song-nhu-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-nhu-1 (2)",
+    "duration" : 3600,
+    "title" : "song-nhu-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_334e79e96a41ed9eb38bfc0b75474d89_1.mp3",
+    "href" : "https://archive.org/download/song-nhu-1/song-nhu-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-nhu-2 (1)",
+    "duration" : 3600,
+    "title" : "song-nhu-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_334e79e96a41ed9eb38bfc0b75474d89_2.mp3",
+    "href" : "https://archive.org/download/song-nhu-1/song-nhu-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-nhu-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_56c0ae4dc5e6a187897ce435cf83186a_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-nhu-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_56c0ae4dc5e6a187897ce435cf83186a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-nhu-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_9f616140eb51a41cade8fe5639b91928_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-nhu-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_9f616140eb51a41cade8fe5639b91928_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-nhu-4 (2)",
+    "duration" : 2622,
+    "title" : "song-nhu-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_b5b87e502473ff4fcf4a1fdb8add5221_1.mp3",
-    "title" : "song-nhu-1 (1)",
+    "href" : "https://archive.org/download/song-nhu-1/song-nhu-1.mp3",
+    "title" : "song-nhu-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_b5b87e502473ff4fcf4a1fdb8add5221_2.mp3",
-    "title" : "song-nhu-1 (2)",
+    "href" : "https://archive.org/download/song-nhu-1/song-nhu-2.mp3",
+    "title" : "song-nhu-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_334e79e96a41ed9eb38bfc0b75474d89_1.mp3",
-    "title" : "song-nhu-2 (1)",
+    "href" : "https://archive.org/download/song-nhu-1/song-nhu-3.mp3",
+    "title" : "song-nhu-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_334e79e96a41ed9eb38bfc0b75474d89_2.mp3",
-    "title" : "song-nhu-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_56c0ae4dc5e6a187897ce435cf83186a_1.mp3",
-    "title" : "song-nhu-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_56c0ae4dc5e6a187897ce435cf83186a_2.mp3",
-    "title" : "song-nhu-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_9f616140eb51a41cade8fe5639b91928_1.mp3",
-    "title" : "song-nhu-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_8d755cd8a4774fc09d9410a1dbc59c6e_9f616140eb51a41cade8fe5639b91928_2.mp3",
-    "title" : "song-nhu-4 (2)",
+    "href" : "https://archive.org/download/song-nhu-1/song-nhu-4.mp3",
+    "title" : "song-nhu-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

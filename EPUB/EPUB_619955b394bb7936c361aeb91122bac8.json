@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-23",
+    "published" : "2023-09-06",
     "duration" : 10954,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,87 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_619955b394bb7936c361aeb91122bac8.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/EPUB/EPUB_619955b394bb7936c361aeb91122bac8.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_619955b394bb7936c361aeb91122bac8.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/IMAGE/IMAGE_619955b394bb7936c361aeb91122bac8.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_a59e42b1d4abaa99100ca748f65bd679_1.mp3",
+    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "doa-hoa-1 (1)",
+    "duration" : 3720,
+    "title" : "doa-hoa-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_a59e42b1d4abaa99100ca748f65bd679_2.mp3",
+    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "doa-hoa-1 (2)",
+    "duration" : 3720,
+    "title" : "doa-hoa-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_945779f01c19dd00863dccba9c4d629e_1.mp3",
+    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "doa-hoa-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_945779f01c19dd00863dccba9c4d629e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "doa-hoa-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_9d6ddc8eb312a534bf4290bfa1e616c9_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "doa-hoa-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_9d6ddc8eb312a534bf4290bfa1e616c9_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "doa-hoa-3 (2)",
+    "duration" : 3514,
+    "title" : "doa-hoa-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_a59e42b1d4abaa99100ca748f65bd679_1.mp3",
-    "title" : "doa-hoa-1 (1)",
+    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-1.mp3",
+    "title" : "doa-hoa-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_a59e42b1d4abaa99100ca748f65bd679_2.mp3",
-    "title" : "doa-hoa-1 (2)",
+    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-2.mp3",
+    "title" : "doa-hoa-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_945779f01c19dd00863dccba9c4d629e_1.mp3",
-    "title" : "doa-hoa-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_945779f01c19dd00863dccba9c4d629e_2.mp3",
-    "title" : "doa-hoa-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_9d6ddc8eb312a534bf4290bfa1e616c9_1.mp3",
-    "title" : "doa-hoa-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_619955b394bb7936c361aeb91122bac8_9d6ddc8eb312a534bf4290bfa1e616c9_2.mp3",
-    "title" : "doa-hoa-3 (2)",
+    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-3.mp3",
+    "title" : "doa-hoa-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

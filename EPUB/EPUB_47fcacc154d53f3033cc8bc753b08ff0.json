@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
+    "published" : "2023-09-06",
     "duration" : 6057,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,51 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_47fcacc154d53f3033cc8bc753b08ff0.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/EPUB/EPUB_47fcacc154d53f3033cc8bc753b08ff0.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_47fcacc154d53f3033cc8bc753b08ff0.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/IMAGE/IMAGE_47fcacc154d53f3033cc8bc753b08ff0.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_1.mp3",
+    "href" : "https://archive.org/download/ky-nang-day-con-thoi-hien-dai-thay-nguyen-thanh-nhan-full/K%E1%BB%B9%20n%C4%83ng%20d%E1%BA%A1y%20con%20th%E1%BB%9Di%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20-%20Th%E1%BA%A7y%20Nguy%E1%BB%85n%20Th%C3%A0nh%20Nh%C3%A2n%20%28full%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (3)",
+    "duration" : 6057,
+    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_1.mp3",
-    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_2.mp3",
-    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_47fcacc154d53f3033cc8bc753b08ff0_4da70b4e43e461dfe7202bb62229b895_3.mp3",
-    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full) (3)",
+    "href" : "https://archive.org/download/ky-nang-day-con-thoi-hien-dai-thay-nguyen-thanh-nhan-full/K%E1%BB%B9%20n%C4%83ng%20d%E1%BA%A1y%20con%20th%E1%BB%9Di%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20-%20Th%E1%BA%A7y%20Nguy%E1%BB%85n%20Th%C3%A0nh%20Nh%C3%A2n%20%28full%29.mp3",
+    "title" : "Kỹ năng dạy con thời hiện đại - Thầy Nguyễn Thành Nhân (full)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
