@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 11191,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,51 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/EPUB/EPUB_012fed3676d2e39824bb1d9d8528753e.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/EPUB/EPUB_012fed3676d2e39824bb1d9d8528753e.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three5/main/IMAGE/IMAGE_012fed3676d2e39824bb1d9d8528753e.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three5/main/IMAGE/IMAGE_012fed3676d2e39824bb1d9d8528753e.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_1.mp3",
+    "href" : "https://archive.org/download/ngu-it/ngu-it.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ngu-it (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ngu-it (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "ngu-it (3)",
+    "duration" : 11191,
+    "title" : "ngu-it",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_1.mp3",
-    "title" : "ngu-it (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_2.mp3",
-    "title" : "ngu-it (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_012fed3676d2e39824bb1d9d8528753e_1d7c2aaf42ccfae4680952e3114ccebc_3.mp3",
-    "title" : "ngu-it (3)",
+    "href" : "https://archive.org/download/ngu-it/ngu-it.mp3",
+    "title" : "ngu-it",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
