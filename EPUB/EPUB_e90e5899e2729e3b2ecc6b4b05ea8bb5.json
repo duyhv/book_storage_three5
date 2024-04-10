@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 21188,
+    "published" : "2024-04-09",
+    "duration" : 10594,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hanh-trinh-sang-phuong-dong.sna/HanhTrinhSangPhuongDong01.mp3",
+    "href" : "https://archive.org/download/e90e5899e2729e3b2ecc6b4b05ea8bb5/01-hanhtrinhsangdongphuong-mot.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3191,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hanh-trinh-sang-phuong-dong.sna/HanhTrinhSangPhuongDong02.mp3",
+    "href" : "https://archive.org/download/e90e5899e2729e3b2ecc6b4b05ea8bb5/02-hanhtrinhsangdongphuong-hai.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1195,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hanh-trinh-sang-phuong-dong.sna/HanhTrinhSangPhuongDong03.mp3",
+    "href" : "https://archive.org/download/e90e5899e2729e3b2ecc6b4b05ea8bb5/03-hanhtrinhsangdongphuong-ba-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1055,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hanh-trinh-sang-phuong-dong.sna/HanhTrinhSangPhuongDong04.mp3",
+    "href" : "https://archive.org/download/e90e5899e2729e3b2ecc6b4b05ea8bb5/04-hanhtrinhsangdongphuong-bon.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1648,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hanh-trinh-sang-phuong-dong.sna/HanhTrinhSangPhuongDong05.mp3",
+    "href" : "https://archive.org/download/e90e5899e2729e3b2ecc6b4b05ea8bb5/05-hanhtrinhsangdongphuong-nam.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3505,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hanh-trinh-sang-phuong-dong.sna/HanhTrinhSangPhuongDong01.mp3",
+    "href" : "https://archive.org/download/e90e5899e2729e3b2ecc6b4b05ea8bb5/01-hanhtrinhsangdongphuong-mot.mp3",
     "title" : "01_HanhTrinhSangDongPhuong_Mot",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hanh-trinh-sang-phuong-dong.sna/HanhTrinhSangPhuongDong02.mp3",
+    "href" : "https://archive.org/download/e90e5899e2729e3b2ecc6b4b05ea8bb5/02-hanhtrinhsangdongphuong-hai.mp3",
     "title" : "02_HanhTrinhSangDongPhuong_Hai",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hanh-trinh-sang-phuong-dong.sna/HanhTrinhSangPhuongDong03.mp3",
+    "href" : "https://archive.org/download/e90e5899e2729e3b2ecc6b4b05ea8bb5/03-hanhtrinhsangdongphuong-ba-.mp3",
     "title" : "03_HanhTrinhSangDongPhuong_Ba_",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hanh-trinh-sang-phuong-dong.sna/HanhTrinhSangPhuongDong04.mp3",
+    "href" : "https://archive.org/download/e90e5899e2729e3b2ecc6b4b05ea8bb5/04-hanhtrinhsangdongphuong-bon.mp3",
     "title" : "04_HanhTrinhSangDongPhuong_Bon",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hanh-trinh-sang-phuong-dong.sna/HanhTrinhSangPhuongDong05.mp3",
+    "href" : "https://archive.org/download/e90e5899e2729e3b2ecc6b4b05ea8bb5/05-hanhtrinhsangdongphuong-nam.mp3",
     "title" : "05_HanhTrinhSangDongPhuong_Nam",
     "children" : [ ]
   } ],

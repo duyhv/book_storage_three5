@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 29421,
+    "published" : "2024-04-08",
+    "duration" : 15740,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/la-xanh/Ch%E1%BB%9Bp%20m%E1%BA%AFt%20m%E1%BB%99t%20%C4%91%E1%BB%9Di.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/chop-mat-mot-doi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1777,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/la-xanh/Cu%E1%BB%91i%20%C4%91%E1%BA%A5t%20qu%C3%AA%20nh%C3%A0.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/cuoi-dat-que-nha.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1828,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/la-xanh/Kh%C3%B4n%20d%E1%BA%A1i%20m%E1%BB%99t%20%C4%91%E1%BB%9Di.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/khon-dai-mot-doi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1687,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/la-xanh/L%C3%A0m%20ch%E1%BB%93ng.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/lam-chong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1902,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/la-xanh/Ngo%C3%A0i%20kia%20l%C3%A0%20bi%E1%BB%83n.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/ngoai-kia-la-bien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2522,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/la-xanh/Ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%20l%C3%A0%20b%E1%BA%A7u%20tr%E1%BB%9Di.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/phia-truoc-la-bau-troi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2197,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/la-xanh/Tan%20v%C3%A0o%20s%C6%B0%C6%A1ng%20n%C3%BAi.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/tan-vao-suong-nui.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1768,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/la-xanh/la-xanh.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/la-xanh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2059,
@@ -101,35 +101,35 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/la-xanh/Ch%E1%BB%9Bp%20m%E1%BA%AFt%20m%E1%BB%99t%20%C4%91%E1%BB%9Di.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/chop-mat-mot-doi.mp3",
     "title" : "Chớp mắt một đời",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/la-xanh/Cu%E1%BB%91i%20%C4%91%E1%BA%A5t%20qu%C3%AA%20nh%C3%A0.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/cuoi-dat-que-nha.mp3",
     "title" : "Cuối đất quê nhà",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/la-xanh/Kh%C3%B4n%20d%E1%BA%A1i%20m%E1%BB%99t%20%C4%91%E1%BB%9Di.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/khon-dai-mot-doi.mp3",
     "title" : "Khôn dại một đời",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/la-xanh/L%C3%A0m%20ch%E1%BB%93ng.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/lam-chong.mp3",
     "title" : "Làm chồng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/la-xanh/Ngo%C3%A0i%20kia%20l%C3%A0%20bi%E1%BB%83n.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/ngoai-kia-la-bien.mp3",
     "title" : "Ngoài kia là biển",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/la-xanh/Ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%20l%C3%A0%20b%E1%BA%A7u%20tr%E1%BB%9Di.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/phia-truoc-la-bau-troi.mp3",
     "title" : "Phía trước là bầu trời",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/la-xanh/Tan%20v%C3%A0o%20s%C6%B0%C6%A1ng%20n%C3%BAi.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/tan-vao-suong-nui.mp3",
     "title" : "Tan vào sương núi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/la-xanh/la-xanh.mp3",
+    "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/la-xanh.mp3",
     "title" : "la-xanh",
     "children" : [ ]
   } ],
