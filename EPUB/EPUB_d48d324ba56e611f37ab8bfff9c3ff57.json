@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-22",
     "duration" : 49176,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-1.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7482,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-2.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9249,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-3.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7506,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-4.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7727,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-5.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9139,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-6.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8073,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-1.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-1.mp3",
     "title" : "tro-lai-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-2.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-2.mp3",
     "title" : "tro-lai-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-3.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-3.mp3",
     "title" : "tro-lai-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-4.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-4.mp3",
     "title" : "tro-lai-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-5.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-5.mp3",
     "title" : "tro-lai-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tro-lai-2/tro-lai-6.mp3",
+    "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-6.mp3",
     "title" : "tro-lai-6",
     "children" : [ ]
   } ],
