@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 49068,
+    "published" : "2024-04-29",
+    "duration" : 26759,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-01.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2145,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-02.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1900,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-03.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1984,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-04.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2226,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-05.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2224,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-06.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1998,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-07.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2019,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-08.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2129,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-09.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2018,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-10.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1919,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-11.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2132,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-12.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2011,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-13.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2054,
@@ -141,55 +141,55 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-01.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-01.mp3",
     "title" : "nhung-dem-01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-02.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-02.mp3",
     "title" : "nhung-dem-02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-03.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-03.mp3",
     "title" : "nhung-dem-03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-04.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-04.mp3",
     "title" : "nhung-dem-04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-05.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-05.mp3",
     "title" : "nhung-dem-05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-06.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-06.mp3",
     "title" : "nhung-dem-06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-07.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-07.mp3",
     "title" : "nhung-dem-07",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-08.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-08.mp3",
     "title" : "nhung-dem-08",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-09.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-09.mp3",
     "title" : "nhung-dem-09",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-10.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-10.mp3",
     "title" : "nhung-dem-10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-11.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-11.mp3",
     "title" : "nhung-dem-11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-12.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-12.mp3",
     "title" : "nhung-dem-12",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nhung-dem-04/nhung-dem-13.mp3",
+    "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-13.mp3",
     "title" : "nhung-dem-13",
     "children" : [ ]
   } ],

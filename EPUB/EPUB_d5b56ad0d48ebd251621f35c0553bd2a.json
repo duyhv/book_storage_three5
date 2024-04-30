@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-29",
     "duration" : 47485,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/aqtpt/00001_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00001-ac-quy-thanh-pho-trang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4409,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/aqtpt/00002_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00002-ac-quy-thanh-pho-trang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3493,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/aqtpt/00003_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00003-ac-quy-thanh-pho-trang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4135,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/aqtpt/00004_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00004-ac-quy-thanh-pho-trang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3707,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/aqtpt/00005_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00005-ac-quy-thanh-pho-trang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4484,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/aqtpt/00006_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00006-ac-quy-thanh-pho-trang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3737,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/aqtpt/00007_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00007-ac-quy-thanh-pho-trang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5187,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/aqtpt/00008_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00008-ac-quy-thanh-pho-trang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4128,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/aqtpt/00009_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00009-ac-quy-thanh-pho-trang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4241,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/aqtpt/00010_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00010-ac-quy-thanh-pho-trang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3699,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/aqtpt/00011_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00011-ac-quy-thanh-pho-trang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6265,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/aqtpt/00001_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00001-ac-quy-thanh-pho-trang.mp3",
     "title" : "00001 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/aqtpt/00002_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00002-ac-quy-thanh-pho-trang.mp3",
     "title" : "00002 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/aqtpt/00003_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00003-ac-quy-thanh-pho-trang.mp3",
     "title" : "00003 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/aqtpt/00004_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00004-ac-quy-thanh-pho-trang.mp3",
     "title" : "00004 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/aqtpt/00005_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00005-ac-quy-thanh-pho-trang.mp3",
     "title" : "00005 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/aqtpt/00006_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00006-ac-quy-thanh-pho-trang.mp3",
     "title" : "00006 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/aqtpt/00007_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00007-ac-quy-thanh-pho-trang.mp3",
     "title" : "00007 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/aqtpt/00008_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00008-ac-quy-thanh-pho-trang.mp3",
     "title" : "00008 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/aqtpt/00009_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00009-ac-quy-thanh-pho-trang.mp3",
     "title" : "00009 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/aqtpt/00010_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00010-ac-quy-thanh-pho-trang.mp3",
     "title" : "00010 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/aqtpt/00011_A%CC%81c%20Quy%CC%89%20Tha%CC%80nh%20Pho%CC%82%CC%81%20Tra%CC%86%CC%81ng.m4a",
+    "href" : "https://archive.org/download/d5b56ad0d48ebd251621f35c0553bd2a/00011-ac-quy-thanh-pho-trang.mp3",
     "title" : "00011 Ác Quỷ Thành Phố Trắng",
     "children" : [ ]
   } ],
