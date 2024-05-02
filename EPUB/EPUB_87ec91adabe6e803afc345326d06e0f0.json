@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 12214,
+    "published" : "2024-05-02",
+    "duration" : 6107,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cua-tung-3/cua-tung-1.mp3",
+    "href" : "https://archive.org/download/87ec91adabe6e803afc345326d06e0f0/01-cua-tung-doi-canh-gai.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1124,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cua-tung-3/cua-tung-2.mp3",
+    "href" : "https://archive.org/download/87ec91adabe6e803afc345326d06e0f0/02-cua-tung-doi-canh-gai.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2225,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cua-tung-3/cua-tung-3.mp3",
+    "href" : "https://archive.org/download/87ec91adabe6e803afc345326d06e0f0/03-cua-tung-doi-canh-gai.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2758,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cua-tung-3/cua-tung-1.mp3",
+    "href" : "https://archive.org/download/87ec91adabe6e803afc345326d06e0f0/01-cua-tung-doi-canh-gai.mp3",
     "title" : "01 Cua tung doi canh gai",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cua-tung-3/cua-tung-2.mp3",
+    "href" : "https://archive.org/download/87ec91adabe6e803afc345326d06e0f0/02-cua-tung-doi-canh-gai.mp3",
     "title" : "02 Cua tung doi canh gai",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cua-tung-3/cua-tung-3.mp3",
+    "href" : "https://archive.org/download/87ec91adabe6e803afc345326d06e0f0/03-cua-tung-doi-canh-gai.mp3",
     "title" : "03 Cua tung doi canh gai",
     "children" : [ ]
   } ],
