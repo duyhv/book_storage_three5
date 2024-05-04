@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 3852,
+    "published" : "2024-05-02",
+    "duration" : 1926,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nhan-duyen/nhan-duyen.mp3",
+    "href" : "https://archive.org/download/78220f6e447cb6f5c1d28b0f23531b65/nhan-duyen.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1926,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nhan-duyen/nhan-duyen.mp3",
+    "href" : "https://archive.org/download/78220f6e447cb6f5c1d28b0f23531b65/nhan-duyen.mp3",
     "title" : "nhan-duyen",
     "children" : [ ]
   } ],

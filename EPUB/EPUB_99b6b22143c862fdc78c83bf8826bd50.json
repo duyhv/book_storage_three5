@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 25694,
+    "published" : "2024-05-04",
+    "duration" : 12847,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/matilda-02/Matilda-01.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/1-matilda-co-be-nghich-ngom.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1230,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-02.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/2-matilda-co-be-nghich-ngom-chuong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1826,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-03.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/3-chuong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1438,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-04.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/4-matilda-co-be-nghich-ngom-chuong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1499,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-05.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/5-matilda-co-be-nghich-ngom-chuong-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1144,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-06.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/6-matilda-co-be-nghich-ngom.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1620,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-07.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/7-matilda-co-be-nghich-ngom-chuong-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1247,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-08.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/8-matilda-co-be-nghich-ngom-chuong-8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 935,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-09.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/9-chuong-9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1159,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-10.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/10-matilda-co-be-nghich-ngom-chuong-cuoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 749,
@@ -117,43 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/matilda-02/Matilda-01.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/1-matilda-co-be-nghich-ngom.mp3",
     "title" : "Matilda Cô bé nghịch ngợm",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-02.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/2-matilda-co-be-nghich-ngom-chuong-2.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương 2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-03.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/3-chuong-3.mp3",
     "title" : "Chương 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-04.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/4-matilda-co-be-nghich-ngom-chuong-4.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương 4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-05.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/5-matilda-co-be-nghich-ngom-chuong-5.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương 5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-06.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/6-matilda-co-be-nghich-ngom.mp3",
     "title" : "Matilda Cô bé nghịch ngợm",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-07.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/7-matilda-co-be-nghich-ngom-chuong-7.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương 7",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-08.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/8-matilda-co-be-nghich-ngom-chuong-8.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương 8",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-09.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/9-chuong-9.mp3",
     "title" : "Chương 9",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/matilda-02/Matilda-10.mp3",
+    "href" : "https://archive.org/download/99b6b22143c862fdc78c83bf8826bd50/10-matilda-co-be-nghich-ngom-chuong-cuoi.mp3",
     "title" : "Matilda Cô bé nghịch ngợm - Chương cuối",
     "children" : [ ]
   } ],
