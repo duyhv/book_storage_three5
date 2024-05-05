@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 13336,
+    "published" : "2024-05-05",
+    "duration" : 6668,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-01-nu_cau_thu_bong_chay.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/1-svum-01-nu-cau-thu-bong-chay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 854,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-02-theo_duoi_uoc_mo.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/2-svum-02-theo-duoi-uoc-mo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 288,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-03-buoi_phong_van.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/3-svum-03-buoi-phong-van.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 490,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-04-mieng_decal.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/4-svum-04-mieng-decal.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 568,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-05-hoa_than.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/5-svum-05-hoa-than.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 540,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-06-toi_dong_phim.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/6-svum-06-toi-dong-phim.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 564,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-07-buoi_bieu_dien_truot_ban.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/7-svum-07-buoi-bieu-dien-truot-ban.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 450,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-08-dieu_ko_the.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/8-svum-08-dieu-ko-the.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 544,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-09-cai_gieng_cua_ryan.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/9-svum-09-cai-gieng-cua-ryan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 840,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-10-cau_chuyen_ve_ga_cao_boi.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/10-svum-10-cau-chuyen-ve-ga-cao-boi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 626,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-11-ngay_me_khoc.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/11-svum-11-ngay-me-khoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 904,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-01-nu_cau_thu_bong_chay.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/1-svum-01-nu-cau-thu-bong-chay.mp3",
     "title" : "SVUM-01-nu cau thu bong chay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-02-theo_duoi_uoc_mo.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/2-svum-02-theo-duoi-uoc-mo.mp3",
     "title" : "SVUM-02-theo duoi uoc mo",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-03-buoi_phong_van.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/3-svum-03-buoi-phong-van.mp3",
     "title" : "SVUM-03-buoi phong van",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-04-mieng_decal.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/4-svum-04-mieng-decal.mp3",
     "title" : "SVUM-04-mieng decal",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-05-hoa_than.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/5-svum-05-hoa-than.mp3",
     "title" : "SVUM-05-hoa than",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-06-toi_dong_phim.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/6-svum-06-toi-dong-phim.mp3",
     "title" : "SVUM-06-toi dong phim",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-07-buoi_bieu_dien_truot_ban.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/7-svum-07-buoi-bieu-dien-truot-ban.mp3",
     "title" : "SVUM-07-buoi bieu dien truot ban",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-08-dieu_ko_the.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/8-svum-08-dieu-ko-the.mp3",
     "title" : "SVUM-08-dieu ko the",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-09-cai_gieng_cua_ryan.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/9-svum-09-cai-gieng-cua-ryan.mp3",
     "title" : "SVUM-09-cai gieng cua ryan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-10-cau_chuyen_ve_ga_cao_boi.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/10-svum-10-cau-chuyen-ve-ga-cao-boi.mp3",
     "title" : "SVUM-10-cau chuyen ve ga cao boi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/SVUM01NuCauThuBongChay/SVUM-11-ngay_me_khoc.mp3",
+    "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/11-svum-11-ngay-me-khoc.mp3",
     "title" : "SVUM-11-ngay me khoc",
     "children" : [ ]
   } ],
