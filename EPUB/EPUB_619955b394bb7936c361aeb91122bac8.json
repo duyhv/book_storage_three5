@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-06",
     "duration" : 10954,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-1.mp3",
+    "href" : "https://archive.org/download/619955b394bb7936c361aeb91122bac8/1-doa-hoa-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3720,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-2.mp3",
+    "href" : "https://archive.org/download/619955b394bb7936c361aeb91122bac8/2-doa-hoa-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3720,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-3.mp3",
+    "href" : "https://archive.org/download/619955b394bb7936c361aeb91122bac8/3-doa-hoa-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3514,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-1.mp3",
+    "href" : "https://archive.org/download/619955b394bb7936c361aeb91122bac8/1-doa-hoa-1.mp3",
     "title" : "doa-hoa-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-2.mp3",
+    "href" : "https://archive.org/download/619955b394bb7936c361aeb91122bac8/2-doa-hoa-2.mp3",
     "title" : "doa-hoa-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/doa-hoa-1/doa-hoa-3.mp3",
+    "href" : "https://archive.org/download/619955b394bb7936c361aeb91122bac8/3-doa-hoa-3.mp3",
     "title" : "doa-hoa-3",
     "children" : [ ]
   } ],

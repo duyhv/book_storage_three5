@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-06",
     "duration" : 21553,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/duong-so-1/duong-so-1.mp3",
+    "href" : "https://archive.org/download/72212b6794a6ee10be5b9e0d6190a4d7/1--tron-bo-duong-so-4-ruc-lua-phan-01-hum-xam-dang-van-viet-hoi-ky-khang-chien-chong-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7645,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/duong-so-1/duong-so-2.mp3",
+    "href" : "https://archive.org/download/72212b6794a6ee10be5b9e0d6190a4d7/2--tron-bo-duong-so-4-ruc-lua-phan-02-hum-xam-dang-van-viet-hoi-ky-khang-chien-chong-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7462,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/duong-so-1/duong-so-3.mp3",
+    "href" : "https://archive.org/download/72212b6794a6ee10be5b9e0d6190a4d7/3--tron-bo-duong-so-4-ruc-lua-phan-03-hum-xam-dang-van-viet-hoi-ky-khang-chien-chong-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6446,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/duong-so-1/duong-so-1.mp3",
+    "href" : "https://archive.org/download/72212b6794a6ee10be5b9e0d6190a4d7/1--tron-bo-duong-so-4-ruc-lua-phan-01-hum-xam-dang-van-viet-hoi-ky-khang-chien-chong-phap.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 01 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/duong-so-1/duong-so-2.mp3",
+    "href" : "https://archive.org/download/72212b6794a6ee10be5b9e0d6190a4d7/2--tron-bo-duong-so-4-ruc-lua-phan-02-hum-xam-dang-van-viet-hoi-ky-khang-chien-chong-phap.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 02 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/duong-so-1/duong-so-3.mp3",
+    "href" : "https://archive.org/download/72212b6794a6ee10be5b9e0d6190a4d7/3--tron-bo-duong-so-4-ruc-lua-phan-03-hum-xam-dang-van-viet-hoi-ky-khang-chien-chong-phap.mp3",
     "title" : "(Trọn Bộ) ĐƯỜNG SỐ 4 RỰC LỬA Phần 03 | Hùm Xám Đặng Văn Việt | Hồi Ký Kháng Chiến Chống Pháp",
     "children" : [ ]
   } ],

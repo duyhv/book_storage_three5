@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-06",
     "duration" : 21762,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/danh-cap-3/danh-cap-1.mp3",
+    "href" : "https://archive.org/download/7b19f67f732be95b0727b682999e6463/1-danh-cap-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5896,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/danh-cap-3/danh-cap-2.mp3",
+    "href" : "https://archive.org/download/7b19f67f732be95b0727b682999e6463/2-danh-cap-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6090,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/danh-cap-3/danh-cap-3.mp3",
+    "href" : "https://archive.org/download/7b19f67f732be95b0727b682999e6463/3-danh-cap-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6204,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/danh-cap-3/danh-cap-4.mp3",
+    "href" : "https://archive.org/download/7b19f67f732be95b0727b682999e6463/4-danh-cap-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3572,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/danh-cap-3/danh-cap-1.mp3",
+    "href" : "https://archive.org/download/7b19f67f732be95b0727b682999e6463/1-danh-cap-1.mp3",
     "title" : "danh-cap-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/danh-cap-3/danh-cap-2.mp3",
+    "href" : "https://archive.org/download/7b19f67f732be95b0727b682999e6463/2-danh-cap-2.mp3",
     "title" : "danh-cap-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/danh-cap-3/danh-cap-3.mp3",
+    "href" : "https://archive.org/download/7b19f67f732be95b0727b682999e6463/3-danh-cap-3.mp3",
     "title" : "danh-cap-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/danh-cap-3/danh-cap-4.mp3",
+    "href" : "https://archive.org/download/7b19f67f732be95b0727b682999e6463/4-danh-cap-4.mp3",
     "title" : "danh-cap-4",
     "children" : [ ]
   } ],
