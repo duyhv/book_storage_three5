@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-08",
     "duration" : 7267,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/kinh-dia-1/kinh-dia-1.mp3",
+    "href" : "https://archive.org/download/3487a63ed38d2f92f80d0d28ce53601f/1-kinh-dia-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3660,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kinh-dia-1/kinh-dia-2.mp3",
+    "href" : "https://archive.org/download/3487a63ed38d2f92f80d0d28ce53601f/2-kinh-dia-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3607,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/kinh-dia-1/kinh-dia-1.mp3",
+    "href" : "https://archive.org/download/3487a63ed38d2f92f80d0d28ce53601f/1-kinh-dia-1.mp3",
     "title" : "kinh-dia-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kinh-dia-1/kinh-dia-2.mp3",
+    "href" : "https://archive.org/download/3487a63ed38d2f92f80d0d28ce53601f/2-kinh-dia-2.mp3",
     "title" : "kinh-dia-2",
     "children" : [ ]
   } ],
