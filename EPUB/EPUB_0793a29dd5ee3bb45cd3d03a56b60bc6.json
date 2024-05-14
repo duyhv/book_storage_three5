@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-14",
     "duration" : 22067,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mtbc_20230723/ma%20thu%E1%BA%ADt%20b%E1%BB%8B%20c%E1%BA%A5m%20%20%20higashino%20keigo%201%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/1-ma-thuat-bi-cam-higashino-keigo-1-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3952,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mtbc_20230723/ma%20thu%E1%BA%ADt%20b%E1%BB%8B%20c%E1%BA%A5m%20%20%20higashino%20keigo%202%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/2-ma-thuat-bi-cam-higashino-keigo-2-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4151,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mtbc_20230723/ma%20thu%E1%BA%ADt%20b%E1%BB%8B%20c%E1%BA%A5m%20%20%20higashino%20keigo%203%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/3-ma-thuat-bi-cam-higashino-keigo-3-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4500,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mtbc_20230723/ma%20thu%E1%BA%ADt%20b%E1%BB%8B%20c%E1%BA%A5m%20%20%20higashino%20keigo%204%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/4-ma-thuat-bi-cam-higashino-keigo-4-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5392,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mtbc_20230723/ma%20thu%E1%BA%ADt%20b%E1%BB%8B%20c%E1%BA%A5m%20%20%20higashino%20keigo%205%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/5-ma-thuat-bi-cam-higashino-keigo-5-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4072,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mtbc_20230723/ma%20thu%E1%BA%ADt%20b%E1%BB%8B%20c%E1%BA%A5m%20%20%20higashino%20keigo%201%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/1-ma-thuat-bi-cam-higashino-keigo-1-192kbit-aac-.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 1 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mtbc_20230723/ma%20thu%E1%BA%ADt%20b%E1%BB%8B%20c%E1%BA%A5m%20%20%20higashino%20keigo%202%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/2-ma-thuat-bi-cam-higashino-keigo-2-192kbit-aac-.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 2 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mtbc_20230723/ma%20thu%E1%BA%ADt%20b%E1%BB%8B%20c%E1%BA%A5m%20%20%20higashino%20keigo%203%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/3-ma-thuat-bi-cam-higashino-keigo-3-192kbit-aac-.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 3 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mtbc_20230723/ma%20thu%E1%BA%ADt%20b%E1%BB%8B%20c%E1%BA%A5m%20%20%20higashino%20keigo%204%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/4-ma-thuat-bi-cam-higashino-keigo-4-192kbit-aac-.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 4 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mtbc_20230723/ma%20thu%E1%BA%ADt%20b%E1%BB%8B%20c%E1%BA%A5m%20%20%20higashino%20keigo%205%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/5-ma-thuat-bi-cam-higashino-keigo-5-192kbit-aac-.mp3",
     "title" : "ma thuật bị cấm   higashino keigo 5 (192kbit AAC)",
     "children" : [ ]
   } ],
