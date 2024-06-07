@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-06-07",
     "duration" : 3643,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/thao-tung-tam-ly-tinh-hoa-sach-noi/thao-tung-tam-ly-kho-sach-noi.mp3",
+    "href" : "https://archive.org/download/8296e5bf3b065f0864fc3a9b50c18f02/1-tron-bo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/thao-tung-tam-ly-tinh-hoa-sach-noi/thao-tung-tam-ly-kho-sach-noi.mp3",
+    "href" : "https://archive.org/download/8296e5bf3b065f0864fc3a9b50c18f02/1-tron-bo.mp3",
     "title" : "Trọn bộ",
     "children" : [ ]
   } ],
