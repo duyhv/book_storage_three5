@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-22",
+    "published" : "2024-09-09",
     "duration" : 8809,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tam-bat-1/tam-bat-1.mp3",
+    "href" : "https://archive.org/download/dfac9f82427f9814a05e618a1251684f/1-tam-bat-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-bat-1/tam-bat-2.mp3",
+    "href" : "https://archive.org/download/dfac9f82427f9814a05e618a1251684f/2-tam-bat-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tam-bat-1/tam-bat-3.mp3",
+    "href" : "https://archive.org/download/dfac9f82427f9814a05e618a1251684f/3-tam-bat-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1609,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tam-bat-1/tam-bat-1.mp3",
+    "href" : "https://archive.org/download/dfac9f82427f9814a05e618a1251684f/1-tam-bat-1.mp3",
     "title" : "tam-bat-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-bat-1/tam-bat-2.mp3",
+    "href" : "https://archive.org/download/dfac9f82427f9814a05e618a1251684f/2-tam-bat-2.mp3",
     "title" : "tam-bat-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tam-bat-1/tam-bat-3.mp3",
+    "href" : "https://archive.org/download/dfac9f82427f9814a05e618a1251684f/3-tam-bat-3.mp3",
     "title" : "tam-bat-3",
     "children" : [ ]
   } ],
