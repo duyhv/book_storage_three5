@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-06",
-    "duration" : 10954,
+    "published" : "2024-09-20",
+    "duration" : 10957,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/619955b394bb7936c361aeb91122bac8/1-doa-hoa-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3720,
+    "duration" : 3721,
     "title" : "doa-hoa-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/619955b394bb7936c361aeb91122bac8/2-doa-hoa-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3720,
+    "duration" : 3721,
     "title" : "doa-hoa-2",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/619955b394bb7936c361aeb91122bac8/3-doa-hoa-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3514,
+    "duration" : 3515,
     "title" : "doa-hoa-3",
     "properties" : null,
     "alternate" : null

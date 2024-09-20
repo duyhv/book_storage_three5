@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-14",
-    "duration" : 22067,
+    "published" : "2024-09-20",
+    "duration" : 22072,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/1-ma-thuat-bi-cam-higashino-keigo-1-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3952,
+    "duration" : 3953,
     "title" : "ma thuật bị cấm   higashino keigo 1 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/2-ma-thuat-bi-cam-higashino-keigo-2-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4151,
+    "duration" : 4152,
     "title" : "ma thuật bị cấm   higashino keigo 2 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/3-ma-thuat-bi-cam-higashino-keigo-3-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4500,
+    "duration" : 4501,
     "title" : "ma thuật bị cấm   higashino keigo 3 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/4-ma-thuat-bi-cam-higashino-keigo-4-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5392,
+    "duration" : 5393,
     "title" : "ma thuật bị cấm   higashino keigo 4 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/0793a29dd5ee3bb45cd3d03a56b60bc6/5-ma-thuat-bi-cam-higashino-keigo-5-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4072,
+    "duration" : 4073,
     "title" : "ma thuật bị cấm   higashino keigo 5 (192kbit AAC)",
     "properties" : null,
     "alternate" : null

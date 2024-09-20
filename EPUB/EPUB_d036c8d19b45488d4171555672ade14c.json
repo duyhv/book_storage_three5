@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-29",
-    "duration" : 12700,
+    "published" : "2024-09-20",
+    "duration" : 12702,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/d036c8d19b45488d4171555672ade14c/24-sac-mau-con-gai-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2256,
+    "duration" : 2257,
     "title" : "24 SAC MAU CON GAI 02",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/d036c8d19b45488d4171555672ade14c/24-sac-mau-con-gai-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2582,
+    "duration" : 2583,
     "title" : "24 SAC MAU CON GAI 03",
     "properties" : null,
     "alternate" : null

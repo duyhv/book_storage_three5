@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-05",
-    "duration" : 6668,
+    "published" : "2024-09-20",
+    "duration" : 6679,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/1-svum-01-nu-cau-thu-bong-chay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 854,
+    "duration" : 855,
     "title" : "SVUM-01-nu cau thu bong chay",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/2-svum-02-theo-duoi-uoc-mo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 288,
+    "duration" : 289,
     "title" : "SVUM-02-theo duoi uoc mo",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/3-svum-03-buoi-phong-van.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 490,
+    "duration" : 491,
     "title" : "SVUM-03-buoi phong van",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/4-svum-04-mieng-decal.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 568,
+    "duration" : 569,
     "title" : "SVUM-04-mieng decal",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/5-svum-05-hoa-than.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 540,
+    "duration" : 541,
     "title" : "SVUM-05-hoa than",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/6-svum-06-toi-dong-phim.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 564,
+    "duration" : 565,
     "title" : "SVUM-06-toi dong phim",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/7-svum-07-buoi-bieu-dien-truot-ban.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 450,
+    "duration" : 451,
     "title" : "SVUM-07-buoi bieu dien truot ban",
     "properties" : null,
     "alternate" : null
@@ -95,7 +95,7 @@
     "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/8-svum-08-dieu-ko-the.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 544,
+    "duration" : 545,
     "title" : "SVUM-08-dieu ko the",
     "properties" : null,
     "alternate" : null
@@ -103,7 +103,7 @@
     "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/9-svum-09-cai-gieng-cua-ryan.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 840,
+    "duration" : 841,
     "title" : "SVUM-09-cai gieng cua ryan",
     "properties" : null,
     "alternate" : null
@@ -111,7 +111,7 @@
     "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/10-svum-10-cau-chuyen-ve-ga-cao-boi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 626,
+    "duration" : 627,
     "title" : "SVUM-10-cau chuyen ve ga cao boi",
     "properties" : null,
     "alternate" : null
@@ -119,7 +119,7 @@
     "href" : "https://archive.org/download/63fa8083100852cfb97199a384e98b49/11-svum-11-ngay-me-khoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 904,
+    "duration" : 905,
     "title" : "SVUM-11-ngay me khoc",
     "properties" : null,
     "alternate" : null

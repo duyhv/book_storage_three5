@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-06",
-    "duration" : 21762,
+    "published" : "2024-09-20",
+    "duration" : 21764,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/7b19f67f732be95b0727b682999e6463/2-danh-cap-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6090,
+    "duration" : 6091,
     "title" : "danh-cap-2",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/7b19f67f732be95b0727b682999e6463/4-danh-cap-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3572,
+    "duration" : 3573,
     "title" : "danh-cap-4",
     "properties" : null,
     "alternate" : null
