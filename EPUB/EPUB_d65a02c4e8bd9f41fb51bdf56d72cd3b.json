@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-29",
-    "duration" : 26759,
+    "published" : "2024-09-21",
+    "duration" : 26763,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1984,
+    "duration" : 1985,
     "title" : "nhung-dem-03",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2226,
+    "duration" : 2227,
     "title" : "nhung-dem-04",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1998,
+    "duration" : 1999,
     "title" : "nhung-dem-06",
     "properties" : null,
     "alternate" : null
@@ -111,7 +111,7 @@
     "href" : "https://archive.org/download/d65a02c4e8bd9f41fb51bdf56d72cd3b/nhung-dem-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1919,
+    "duration" : 1920,
     "title" : "nhung-dem-10",
     "properties" : null,
     "alternate" : null

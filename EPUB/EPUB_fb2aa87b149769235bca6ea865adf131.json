@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-08",
-    "duration" : 15740,
+    "published" : "2024-09-21",
+    "duration" : 15743,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/khon-dai-mot-doi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1687,
+    "duration" : 1688,
     "title" : "Khôn dại một đời",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/lam-chong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1902,
+    "duration" : 1903,
     "title" : "Làm chồng",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/fb2aa87b149769235bca6ea865adf131/tan-vao-suong-nui.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1768,
+    "duration" : 1769,
     "title" : "Tan vào sương núi",
     "properties" : null,
     "alternate" : null

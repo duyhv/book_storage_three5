@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-22",
-    "duration" : 49176,
+    "published" : "2024-09-21",
+    "duration" : 49180,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7482,
+    "duration" : 7483,
     "title" : "tro-lai-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 9249,
+    "duration" : 9250,
     "title" : "tro-lai-2",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7727,
+    "duration" : 7728,
     "title" : "tro-lai-4",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/d48d324ba56e611f37ab8bfff9c3ff57/tro-lai-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8073,
+    "duration" : 8074,
     "title" : "tro-lai-6",
     "properties" : null,
     "alternate" : null
