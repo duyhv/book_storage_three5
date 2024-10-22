@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 7269,
+    "published" : "2024-10-22",
+    "duration" : 7267,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,28 +36,28 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/3487a63ed38d2f92f80d0d28ce53601f/1-kinh-dia-1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3487a63ed38d2f92f80d0d28ce53601f/cloudflare_1-kinh-dia-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3661,
+    "duration" : 3660,
     "title" : "kinh-dia-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3487a63ed38d2f92f80d0d28ce53601f/2-kinh-dia-2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3487a63ed38d2f92f80d0d28ce53601f/cloudflare_2-kinh-dia-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3608,
+    "duration" : 3607,
     "title" : "kinh-dia-2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/3487a63ed38d2f92f80d0d28ce53601f/1-kinh-dia-1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3487a63ed38d2f92f80d0d28ce53601f/cloudflare_1-kinh-dia-1.mp3",
     "title" : "kinh-dia-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3487a63ed38d2f92f80d0d28ce53601f/2-kinh-dia-2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3487a63ed38d2f92f80d0d28ce53601f/cloudflare_2-kinh-dia-2.mp3",
     "title" : "kinh-dia-2",
     "children" : [ ]
   } ],
