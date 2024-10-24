@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
+    "published" : "2024-10-24",
     "duration" : 7020,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/8296e5bf3b065f0864fc3a9b50c18f02/1-tron-bo.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/8296e5bf3b065f0864fc3a9b50c18f02/cloudflare_1-tron-bo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7020,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/8296e5bf3b065f0864fc3a9b50c18f02/1-tron-bo.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/8296e5bf3b065f0864fc3a9b50c18f02/cloudflare_1-tron-bo.mp3",
     "title" : "Trọn bộ",
     "children" : [ ]
   } ],
