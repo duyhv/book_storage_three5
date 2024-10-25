@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-21",
-    "duration" : 5455,
+    "published" : "2024-10-25",
+    "duration" : 5454,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,16 +36,16 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/dc91209a331484be45ec7a80490cfcf3/binh-phap.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/dc91209a331484be45ec7a80490cfcf3/cloudflare_1-binh-phap.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5455,
+    "duration" : 5454,
     "title" : "binh-phap",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/dc91209a331484be45ec7a80490cfcf3/binh-phap.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/dc91209a331484be45ec7a80490cfcf3/cloudflare_1-binh-phap.mp3",
     "title" : "binh-phap",
     "children" : [ ]
   } ],
